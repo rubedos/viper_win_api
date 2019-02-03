@@ -9,8 +9,8 @@
   <HelpKINode Title="AddItem method" Url="html/Overload_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_AddItem.htm" />
   <HelpKINode Title="AllowAutoUpdate property" Url="html/P_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager_AllowAutoUpdate.htm" />
   <HelpKINode Title="AllTopics enumeration member">
-    <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_RosToolsApplicationBase_FilterTopicsOptionsEnum.htm" />
     <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_Viper_Net_FilterTopicsOptionsEnum.htm" />
+    <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_RosToolsApplicationBase_FilterTopicsOptionsEnum.htm" />
   </HelpKINode>
   <HelpKINode Title="AllTopics property" Url="html/P_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs_AllTopics.htm" />
   <HelpKINode Title="AmbientLightColor property" Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_AmbientLightColor.htm" />
@@ -327,8 +327,8 @@
     <HelpKINode Title="RosWindowBase.FilterTopics Method " Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase_FilterTopics.htm" />
   </HelpKINode>
   <HelpKINode Title="FilterTopicsOptionsEnum enumeration">
-    <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_Viper_Net_FilterTopicsOptionsEnum.htm" />
     <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_RosToolsApplicationBase_FilterTopicsOptionsEnum.htm" />
+    <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_Viper_Net_FilterTopicsOptionsEnum.htm" />
   </HelpKINode>
   <HelpKINode Title="Finalize method" Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_Finalize.htm" />
   <HelpKINode Title="FocalPoint property" Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_FocalPoint.htm" />
@@ -928,8 +928,8 @@
   <HelpKINode Title="SoftwareUpdateManager property" Url="html/P_Rubedos_Viper_Net_CvmDevice_SoftwareUpdateManager.htm" />
   <HelpKINode Title="SpaceOfInterestGroup property" Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_SpaceOfInterestGroup.htm" />
   <HelpKINode Title="SpecificType enumeration member">
-    <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_RosToolsApplicationBase_FilterTopicsOptionsEnum.htm" />
     <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_Viper_Net_FilterTopicsOptionsEnum.htm" />
+    <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_RosToolsApplicationBase_FilterTopicsOptionsEnum.htm" />
   </HelpKINode>
   <HelpKINode Title="StartTracking method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_StartTracking.htm" />
   <HelpKINode Title="StopUpdateThread method" Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_StopUpdateThread.htm" />
