@@ -2,26 +2,26 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome" Url="html/364aac1f-0ff3-495d-82cb-d835e2fecd7c.htm" />
-  <HelpTOCNode Id="a7264a50-8167-449c-a06b-5cbe986d256b" Title="Getting Started">
+  <HelpTOCNode Id="cfdbddef-5fc5-4164-bc00-0392275d38da" Title="Getting Started">
     <HelpTOCNode Title="Prerequisites" Url="html/a6dfead0-67e8-4213-9c3b-ad993c442126.htm" />
     <HelpTOCNode Title="Walkthrough" Url="html/eb30683b-6c0e-43a3-8902-27e68f2265b2.htm" />
     <HelpTOCNode Title="Samples" Url="html/d1f1ef7e-7ad4-4e46-9e67-364c6a1b7539.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="04c6eb59-b985-4391-a9a4-50972251307b" Title="VIPER API Reference" Url="html/29ee545e-fb05-442f-8b82-7c2e7db53a2c.htm">
-    <HelpTOCNode Id="0c909c0e-4eb3-485a-b219-821f12164a4e" Title="Rubedos.RosToolsApplicationBase" Url="html/N_Rubedos_RosToolsApplicationBase.htm">
-      <HelpTOCNode Id="f6177498-7ffc-4308-8cfd-c139da949564" Title="AutoCompleteEntry Class" Url="html/T_Rubedos_RosToolsApplicationBase_AutoCompleteEntry.htm">
+  <HelpTOCNode Id="ec91dd77-3fb9-4d68-928d-ebd902be8bfb" Title="VIPER API Reference" Url="html/29ee545e-fb05-442f-8b82-7c2e7db53a2c.htm">
+    <HelpTOCNode Id="760116aa-8f4c-4746-aa3f-8503f048ec6e" Title="Rubedos.RosToolsApplicationBase" Url="html/N_Rubedos_RosToolsApplicationBase.htm">
+      <HelpTOCNode Id="ab5d8a83-efec-4963-99ce-a0c8b77cc347" Title="AutoCompleteEntry Class" Url="html/T_Rubedos_RosToolsApplicationBase_AutoCompleteEntry.htm">
         <HelpTOCNode Title="AutoCompleteEntry Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_AutoCompleteEntry__ctor.htm" />
-        <HelpTOCNode Id="72608d3f-9125-4c2d-a0e9-43a4d53243f3" Title="AutoCompleteEntry Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_AutoCompleteEntry.htm">
+        <HelpTOCNode Id="c5733c05-1f68-4bb4-ac40-5d0886bc9f33" Title="AutoCompleteEntry Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_AutoCompleteEntry.htm">
           <HelpTOCNode Title="DisplayName Property " Url="html/P_Rubedos_RosToolsApplicationBase_AutoCompleteEntry_DisplayName.htm" />
           <HelpTOCNode Title="KeywordStrings Property " Url="html/P_Rubedos_RosToolsApplicationBase_AutoCompleteEntry_KeywordStrings.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="eb3153bf-475a-4c19-9b58-e48dbd11b4db" Title="AutoCompleteEntry Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_AutoCompleteEntry.htm">
+        <HelpTOCNode Id="0fe7e781-4a4f-4919-8b4c-67df4e9b2bcd" Title="AutoCompleteEntry Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_AutoCompleteEntry.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_Rubedos_RosToolsApplicationBase_AutoCompleteEntry_ToString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="28f803f3-aa01-4b50-9f0e-ad26a69d21a3" Title="AutoCompleteTextBox Class" Url="html/T_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox.htm">
+      <HelpTOCNode Id="9ddcd7dd-8b74-4fd0-a970-cc9143307df2" Title="AutoCompleteTextBox Class" Url="html/T_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox.htm">
         <HelpTOCNode Title="AutoCompleteTextBox Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox__ctor.htm" />
-        <HelpTOCNode Id="525f0620-12f9-4ced-8c67-6aad375ba94c" Title="AutoCompleteTextBox Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox.htm">
+        <HelpTOCNode Id="9686a8fa-8b3e-434f-8316-2f68eb6558aa" Title="AutoCompleteTextBox Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox.htm">
           <HelpTOCNode Title="DelayTime Property " Url="html/P_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_DelayTime.htm" />
           <HelpTOCNode Title="HistoryContext Property " Url="html/P_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_HistoryContext.htm" />
           <HelpTOCNode Title="Text Property " Url="html/P_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_Text.htm" />
@@ -30,8 +30,8 @@
           <HelpTOCNode Title="Tokenizer Property " Url="html/P_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_Tokenizer.htm" />
           <HelpTOCNode Title="VisualChildrenCount Property " Url="html/P_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_VisualChildrenCount.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="39e4c40d-09a1-4ef8-9221-6bfed6b48cf3" Title="AutoCompleteTextBox Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox.htm">
-          <HelpTOCNode Id="3da31d7a-023a-457b-bc39-445acd4a86e6" Title="AddItem Method " Url="html/Overload_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_AddItem.htm">
+        <HelpTOCNode Id="0876e0ef-2e1e-49e0-bc94-43de4999a147" Title="AutoCompleteTextBox Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox.htm">
+          <HelpTOCNode Id="4d80d781-b66d-455c-895f-7ea16dd12029" Title="AddItem Method " Url="html/Overload_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_AddItem.htm">
             <HelpTOCNode Title="AddItem Method (String)" Url="html/M_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_AddItem_1.htm" />
             <HelpTOCNode Title="AddItem Method (AutoCompleteEntry)" Url="html/M_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_AddItem.htm" />
           </HelpTOCNode>
@@ -42,23 +42,23 @@
           <HelpTOCNode Title="StoreEntries Method " Url="html/M_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_StoreEntries.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="AutoCompleteTextBox Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox.htm" />
-        <HelpTOCNode Id="862faaee-f87d-4061-9556-d5ca5babff38" Title="AutoCompleteTextBox Fields" Url="html/Fields_T_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox.htm">
+        <HelpTOCNode Id="f6da2f60-29bc-404e-b8b6-f5c4d6f92e32" Title="AutoCompleteTextBox Fields" Url="html/Fields_T_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox.htm">
           <HelpTOCNode Title="HistoryContextProperty Field" Url="html/F_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_HistoryContextProperty.htm" />
           <HelpTOCNode Title="TextProperty Field" Url="html/F_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_TextProperty.htm" />
           <HelpTOCNode Title="UrlTokenizer Field" Url="html/F_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_UrlTokenizer.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="61b30f06-b609-44bb-a696-63f9e648fddd" Title="Configurator Class" Url="html/T_Rubedos_RosToolsApplicationBase_Configurator.htm">
+      <HelpTOCNode Id="effcfbb7-e4f3-434c-b40e-5d6318691a15" Title="Configurator Class" Url="html/T_Rubedos_RosToolsApplicationBase_Configurator.htm">
         <HelpTOCNode Title="Configurator Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_Configurator__ctor.htm" />
         <HelpTOCNode Title="Configurator Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_Configurator.htm" />
-        <HelpTOCNode Id="344f8309-f95f-4b94-ad9a-7162850867c3" Title="Configurator Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_Configurator.htm">
+        <HelpTOCNode Id="e3f16c6f-7be1-448e-8652-e5b92a025b14" Title="Configurator Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_Configurator.htm">
           <HelpTOCNode Title="InitializeComponent Method " Url="html/M_Rubedos_RosToolsApplicationBase_Configurator_InitializeComponent.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Configurator Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_Configurator.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="bc18734a-6cb6-49a1-8547-ff4c3c7aa3eb" Title="Device Class" Url="html/T_Rubedos_RosToolsApplicationBase_Device.htm">
+      <HelpTOCNode Id="e74411d5-bb81-4eff-83c9-764c4dc58ce0" Title="Device Class" Url="html/T_Rubedos_RosToolsApplicationBase_Device.htm">
         <HelpTOCNode Title="Device Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_Device__ctor.htm" />
-        <HelpTOCNode Id="d81b31ec-545a-4890-a938-35c53136d091" Title="Device Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_Device.htm">
+        <HelpTOCNode Id="e5c06ba4-9c67-447c-b26e-f55d5c50d410" Title="Device Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_Device.htm">
           <HelpTOCNode Title="Date Property " Url="html/P_Rubedos_RosToolsApplicationBase_Device_Date.htm" />
           <HelpTOCNode Title="Id Property " Url="html/P_Rubedos_RosToolsApplicationBase_Device_Id.htm" />
           <HelpTOCNode Title="IP Property " Url="html/P_Rubedos_RosToolsApplicationBase_Device_IP.htm" />
@@ -68,36 +68,36 @@
           <HelpTOCNode Title="Serial Property " Url="html/P_Rubedos_RosToolsApplicationBase_Device_Serial.htm" />
           <HelpTOCNode Title="Version Property " Url="html/P_Rubedos_RosToolsApplicationBase_Device_Version.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="651b00ab-dcad-475a-83c4-aaa232dfe797" Title="Device Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_Device.htm">
+        <HelpTOCNode Id="870fb57a-9707-4a7a-aa04-c6cabe1f1162" Title="Device Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_Device.htm">
           <HelpTOCNode Title="Update Method " Url="html/M_Rubedos_RosToolsApplicationBase_Device_Update.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_RosToolsApplicationBase_FilterTopicsOptionsEnum.htm" />
-      <HelpTOCNode Id="8b743593-5b5c-41f4-a377-c7d8568579cd" Title="NetworkDiscoveryAgent Class" Url="html/T_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent.htm">
+      <HelpTOCNode Id="45e0e798-a75c-4b97-9dff-69b115166a11" Title="NetworkDiscoveryAgent Class" Url="html/T_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent.htm">
         <HelpTOCNode Title="NetworkDiscoveryAgent Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent__ctor.htm" />
-        <HelpTOCNode Id="4d4abd7e-b9da-4b58-ab80-e716c6dbcc24" Title="NetworkDiscoveryAgent Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent.htm">
+        <HelpTOCNode Id="9dd46a3f-753d-4c11-9cea-9c031a075582" Title="NetworkDiscoveryAgent Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent.htm">
           <HelpTOCNode Title="SelectedDevice Property " Url="html/P_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent_SelectedDevice.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c1c4c893-f392-47cf-8d89-6e235a7f141d" Title="NetworkDiscoveryAgent Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent.htm">
+        <HelpTOCNode Id="05a4f587-3322-46a5-b3f1-9f34bfe6e711" Title="NetworkDiscoveryAgent Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent.htm">
           <HelpTOCNode Title="InitializeComponent Method " Url="html/M_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent_InitializeComponent.htm" />
           <HelpTOCNode Title="Quit Method " Url="html/M_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent_Quit.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="980321f4-bf3e-423e-8586-5f9cab44cbf1" Title="NetworkDiscoveryAgent Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent.htm">
+        <HelpTOCNode Id="6c69f5d7-b482-46cf-8b4f-edd867ea7b45" Title="NetworkDiscoveryAgent Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent.htm">
           <HelpTOCNode Title="Selected Event" Url="html/E_Rubedos_RosToolsApplicationBase_NetworkDiscoveryAgent_Selected.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="53580b37-7c1b-440f-89d2-904d168a9018" Title="Range(T) Class" Url="html/T_Rubedos_RosToolsApplicationBase_Range_1.htm">
-        <HelpTOCNode Id="c3b7013e-ef72-4e72-9749-c96a401c352c" Title="Range(T) Constructor " Url="html/Overload_Rubedos_RosToolsApplicationBase_Range_1__ctor.htm">
+      <HelpTOCNode Id="b3d26e30-5d6d-4d9e-8a65-075dd57a2b49" Title="Range(T) Class" Url="html/T_Rubedos_RosToolsApplicationBase_Range_1.htm">
+        <HelpTOCNode Id="8cee8d60-8cbd-4fc9-96e3-f09cb6eb4264" Title="Range(T) Constructor " Url="html/Overload_Rubedos_RosToolsApplicationBase_Range_1__ctor.htm">
           <HelpTOCNode Title="Range(T) Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_Range_1__ctor.htm" />
           <HelpTOCNode Title="Range(T) Constructor (T, T)" Url="html/M_Rubedos_RosToolsApplicationBase_Range_1__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="88ac0bec-eb8e-40f5-ae2c-72e1b1303ab5" Title="Range(T) Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_Range_1.htm">
+        <HelpTOCNode Id="7d9ef4a6-6f80-4f23-b934-542aeb950307" Title="Range(T) Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_Range_1.htm">
           <HelpTOCNode Title="Interval Property " Url="html/P_Rubedos_RosToolsApplicationBase_Range_1_Interval.htm" />
           <HelpTOCNode Title="Maximum Property " Url="html/P_Rubedos_RosToolsApplicationBase_Range_1_Maximum.htm" />
           <HelpTOCNode Title="Middle Property " Url="html/P_Rubedos_RosToolsApplicationBase_Range_1_Middle.htm" />
           <HelpTOCNode Title="Minimum Property " Url="html/P_Rubedos_RosToolsApplicationBase_Range_1_Minimum.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2f49b754-c2b9-495c-a285-6d5baedd7b33" Title="Range(T) Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_Range_1.htm">
+        <HelpTOCNode Id="05b60030-5aef-424a-842e-bfaa534eefba" Title="Range(T) Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_Range_1.htm">
           <HelpTOCNode Title="ContainsRange Method " Url="html/M_Rubedos_RosToolsApplicationBase_Range_1_ContainsRange.htm" />
           <HelpTOCNode Title="ContainsValue Method " Url="html/M_Rubedos_RosToolsApplicationBase_Range_1_ContainsValue.htm" />
           <HelpTOCNode Title="IsInsideRange Method " Url="html/M_Rubedos_RosToolsApplicationBase_Range_1_IsInsideRange.htm" />
@@ -105,26 +105,26 @@
           <HelpTOCNode Title="ToString Method " Url="html/M_Rubedos_RosToolsApplicationBase_Range_1_ToString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b1fdc894-6c36-4a18-b2e6-1352574f4534" Title="RangeFloat Class" Url="html/T_Rubedos_RosToolsApplicationBase_RangeFloat.htm">
-        <HelpTOCNode Id="852fd935-b047-4b0e-b9f1-2bbfe0d30f4c" Title="RangeFloat Constructor " Url="html/Overload_Rubedos_RosToolsApplicationBase_RangeFloat__ctor.htm">
+      <HelpTOCNode Id="dc1343cb-af98-433d-81c6-62f3239b4c3a" Title="RangeFloat Class" Url="html/T_Rubedos_RosToolsApplicationBase_RangeFloat.htm">
+        <HelpTOCNode Id="9d79d089-0c5f-4816-9c42-da93761093d2" Title="RangeFloat Constructor " Url="html/Overload_Rubedos_RosToolsApplicationBase_RangeFloat__ctor.htm">
           <HelpTOCNode Title="RangeFloat Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_RangeFloat__ctor.htm" />
           <HelpTOCNode Title="RangeFloat Constructor (Single, Single)" Url="html/M_Rubedos_RosToolsApplicationBase_RangeFloat__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="7e3d2345-0e18-4a76-bf8e-8c64eff8d0fd" Title="RangeFloat Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_RangeFloat.htm">
+        <HelpTOCNode Id="54ad2e93-20f0-4ccc-a20d-1431c00e1632" Title="RangeFloat Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_RangeFloat.htm">
           <HelpTOCNode Title="Interval Property " Url="html/P_Rubedos_RosToolsApplicationBase_RangeFloat_Interval.htm" />
           <HelpTOCNode Title="Middle Property " Url="html/P_Rubedos_RosToolsApplicationBase_RangeFloat_Middle.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="25d670fd-e130-445d-84cc-a6d7d15c263d" Title="RangeFloat Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_RangeFloat.htm">
+        <HelpTOCNode Id="e5d7b256-8db2-4984-bbf1-8226e59f8597" Title="RangeFloat Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_RangeFloat.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_Rubedos_RosToolsApplicationBase_RangeFloat_ToString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bde6071c-630c-4c18-baad-cf1761abd31d" Title="RosWindowBase Class" Url="html/T_Rubedos_RosToolsApplicationBase_RosWindowBase.htm">
+      <HelpTOCNode Id="7ea40f68-7eec-4112-921d-c96cb7ca97cb" Title="RosWindowBase Class" Url="html/T_Rubedos_RosToolsApplicationBase_RosWindowBase.htm">
         <HelpTOCNode Title="RosWindowBase Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase__ctor.htm" />
-        <HelpTOCNode Id="bd399c12-61e2-4a76-8b81-2fdd2bc7e2dc" Title="RosWindowBase Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_RosWindowBase.htm">
+        <HelpTOCNode Id="e6d13847-c377-4ebf-9941-bd0961da8f67" Title="RosWindowBase Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_RosWindowBase.htm">
           <HelpTOCNode Title="Topics Property " Url="html/P_Rubedos_RosToolsApplicationBase_RosWindowBase_Topics.htm" />
           <HelpTOCNode Title="ViperDevice Property " Url="html/P_Rubedos_RosToolsApplicationBase_RosWindowBase_ViperDevice.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8e5bf726-6afa-45bc-8d46-5f69f31cb390" Title="RosWindowBase Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_RosWindowBase.htm">
+        <HelpTOCNode Id="8ab53754-107d-4c01-9699-ebb0ede6228d" Title="RosWindowBase Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_RosWindowBase.htm">
           <HelpTOCNode Title="ConnectClick Method " Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase_ConnectClick.htm" />
           <HelpTOCNode Title="ConnectToROSMaster Method " Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase_ConnectToROSMaster.htm" />
           <HelpTOCNode Title="FilterTopics Method " Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase_FilterTopics.htm" />
@@ -134,7 +134,7 @@
           <HelpTOCNode Title="SaveSettings Method " Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase_SaveSettings.htm" />
           <HelpTOCNode Title="ShutdownROS Method " Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase_ShutdownROS.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c7c2c275-4e38-4bd5-a8c3-09856430596a" Title="RosWindowBase Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_RosWindowBase.htm">
+        <HelpTOCNode Id="88946eb8-69e2-46ac-9324-2be0f8f4b6c2" Title="RosWindowBase Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_RosWindowBase.htm">
           <HelpTOCNode Title="CvmDeviceInfoChaged Event" Url="html/E_Rubedos_RosToolsApplicationBase_RosWindowBase_CvmDeviceInfoChaged.htm" />
           <HelpTOCNode Title="RosConnected Event" Url="html/E_Rubedos_RosToolsApplicationBase_RosWindowBase_RosConnected.htm" />
           <HelpTOCNode Title="RosConnecting Event" Url="html/E_Rubedos_RosToolsApplicationBase_RosWindowBase_RosConnecting.htm" />
@@ -143,13 +143,13 @@
           <HelpTOCNode Title="TopicsUpdated Event" Url="html/E_Rubedos_RosToolsApplicationBase_RosWindowBase_TopicsUpdated.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bcea5c40-5d91-4073-ac33-f042f74907d1" Title="TfTransformModel3D Class" Url="html/T_Rubedos_RosToolsApplicationBase_TfTransformModel3D.htm">
+      <HelpTOCNode Id="2bce1991-1e23-434a-93df-63a5e96f1199" Title="TfTransformModel3D Class" Url="html/T_Rubedos_RosToolsApplicationBase_TfTransformModel3D.htm">
         <HelpTOCNode Title="TfTransformModel3D Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_TfTransformModel3D__ctor.htm" />
-        <HelpTOCNode Id="d63f89c7-14b2-4c43-9dfe-0cc95d108ee0" Title="TfTransformModel3D Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_TfTransformModel3D.htm">
+        <HelpTOCNode Id="58ce3951-de71-476c-9531-817b52bf1692" Title="TfTransformModel3D Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_TfTransformModel3D.htm">
           <HelpTOCNode Title="CvmDevice Property " Url="html/P_Rubedos_RosToolsApplicationBase_TfTransformModel3D_CvmDevice.htm" />
           <HelpTOCNode Title="LabelsModel Property " Url="html/P_Rubedos_RosToolsApplicationBase_TfTransformModel3D_LabelsModel.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ae6384da-9410-4733-8381-75f78737bf7c" Title="TfTransformModel3D Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_TfTransformModel3D.htm">
+        <HelpTOCNode Id="13ed9464-ae21-432c-8d86-bedfff0d95a9" Title="TfTransformModel3D Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_TfTransformModel3D.htm">
           <HelpTOCNode Title="AddFrame Method " Url="html/M_Rubedos_RosToolsApplicationBase_TfTransformModel3D_AddFrame.htm" />
           <HelpTOCNode Title="Init Method " Url="html/M_Rubedos_RosToolsApplicationBase_TfTransformModel3D_Init.htm" />
         </HelpTOCNode>
@@ -157,10 +157,10 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Tokenize Delegate" Url="html/T_Rubedos_RosToolsApplicationBase_Tokenize.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="bb7f91b2-d0ef-4e84-b37d-9823eca24282" Title="Rubedos.RosToolsApplicationBase.PointCloud" Url="html/N_Rubedos_RosToolsApplicationBase_PointCloud.htm">
-      <HelpTOCNode Id="e0d2491a-ec3e-4390-905f-9ea40181bb23" Title="BaseViewModel Class" Url="html/T_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel.htm">
+    <HelpTOCNode Id="857c8eb0-0548-47b0-8873-83de26024422" Title="Rubedos.RosToolsApplicationBase.PointCloud" Url="html/N_Rubedos_RosToolsApplicationBase_PointCloud.htm">
+      <HelpTOCNode Id="2cfc2d97-eb70-448a-a1b5-722e3fc7b994" Title="BaseViewModel Class" Url="html/T_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel.htm">
         <HelpTOCNode Title="BaseViewModel Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel__ctor.htm" />
-        <HelpTOCNode Id="bd423355-5a9a-4477-8d4f-51b90a07fdb4" Title="BaseViewModel Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel.htm">
+        <HelpTOCNode Id="b5d93ce8-3068-4015-94dc-08ecaebb6201" Title="BaseViewModel Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel.htm">
           <HelpTOCNode Title="Camera Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_Camera.htm" />
           <HelpTOCNode Title="CameraModel Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_CameraModel.htm" />
           <HelpTOCNode Title="CameraModelCollection Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_CameraModelCollection.htm" />
@@ -170,8 +170,8 @@
           <HelpTOCNode Title="SubTitle Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_SubTitle.htm" />
           <HelpTOCNode Title="Title Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_Title.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3dff0262-bb7d-4b17-aa67-9bf664962668" Title="BaseViewModel Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel.htm">
-          <HelpTOCNode Id="2a35e1bd-852c-4b67-82d0-6b9f1365f4db" Title="Dispose Method " Url="html/Overload_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_Dispose.htm">
+        <HelpTOCNode Id="9ec22cf3-932e-4176-ab23-fcd172adc2c7" Title="BaseViewModel Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel.htm">
+          <HelpTOCNode Id="9aeac167-ef1e-4622-a9fd-d75b04a0ee55" Title="Dispose Method " Url="html/Overload_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_Dispose_1.htm" />
           </HelpTOCNode>
@@ -179,29 +179,29 @@
           <HelpTOCNode Title="LoadFileToMemory Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_LoadFileToMemory.htm" />
           <HelpTOCNode Title="OnCameraModelChanged Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_OnCameraModelChanged.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bff223ea-734a-49a0-945e-62868cb6a444" Title="BaseViewModel Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel.htm">
+        <HelpTOCNode Id="2f1b61ee-27ca-4a11-8b69-a1f0de54b39b" Title="BaseViewModel Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel.htm">
           <HelpTOCNode Title="CameraModelChanged Event" Url="html/E_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_CameraModelChanged.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="19be5cb2-c2d3-408c-8333-0466e5edf2fd" Title="BaseViewModel Fields" Url="html/Fields_T_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel.htm">
+        <HelpTOCNode Id="c157c91c-c6d0-43cf-b253-9373bcac9e62" Title="BaseViewModel Fields" Url="html/Fields_T_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel.htm">
           <HelpTOCNode Title="defaultOrthographicCamera Field" Url="html/F_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_defaultOrthographicCamera.htm" />
           <HelpTOCNode Title="defaultPerspectiveCamera Field" Url="html/F_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_defaultPerspectiveCamera.htm" />
           <HelpTOCNode Title="Orthographic Field" Url="html/F_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_Orthographic.htm" />
           <HelpTOCNode Title="Perspective Field" Url="html/F_Rubedos_RosToolsApplicationBase_PointCloud_BaseViewModel_Perspective.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d677c8aa-ec56-403d-bc7b-9ec8bd13904b" Title="ObservableObject Class" Url="html/T_Rubedos_RosToolsApplicationBase_PointCloud_ObservableObject.htm">
+      <HelpTOCNode Id="9501300e-8e73-4ea4-8bbc-7552675b6c0f" Title="ObservableObject Class" Url="html/T_Rubedos_RosToolsApplicationBase_PointCloud_ObservableObject.htm">
         <HelpTOCNode Title="ObservableObject Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_ObservableObject__ctor.htm" />
-        <HelpTOCNode Id="076dabaf-01cc-466e-9e87-6b894b783903" Title="ObservableObject Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_PointCloud_ObservableObject.htm">
+        <HelpTOCNode Id="ee71aef7-2995-499b-a5c3-c1dad7ac1528" Title="ObservableObject Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_PointCloud_ObservableObject.htm">
           <HelpTOCNode Title="OnPropertyChanged Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_ObservableObject_OnPropertyChanged.htm" />
           <HelpTOCNode Title="SetValue(T) Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_ObservableObject_SetValue__1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9a857658-7336-4a30-9cd5-891684baa5e4" Title="ObservableObject Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_PointCloud_ObservableObject.htm">
+        <HelpTOCNode Id="98b0362c-ce2e-41ef-b93e-6d3a4bef6ef2" Title="ObservableObject Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_PointCloud_ObservableObject.htm">
           <HelpTOCNode Title="PropertyChanged Event" Url="html/E_Rubedos_RosToolsApplicationBase_PointCloud_ObservableObject_PropertyChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="44127525-5fcf-4236-a510-89abe3138534" Title="PointCloud3DView Class" Url="html/T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView.htm">
+      <HelpTOCNode Id="7a00c660-c380-406b-ac45-7b00701fd70d" Title="PointCloud3DView Class" Url="html/T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView.htm">
         <HelpTOCNode Title="PointCloud3DView Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView__ctor.htm" />
-        <HelpTOCNode Id="8ae2bd90-70e9-4d5a-aa35-2d281e40dd93" Title="PointCloud3DView Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView.htm">
+        <HelpTOCNode Id="f9cfd3a8-bd54-4a08-a5ba-ae5cb16338fb" Title="PointCloud3DView Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView.htm">
           <HelpTOCNode Title="CameraInfoTopic Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_CameraInfoTopic.htm" />
           <HelpTOCNode Title="DisparityTopic Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_DisparityTopic.htm" />
           <HelpTOCNode Title="MaximumZ Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_MaximumZ.htm" />
@@ -213,14 +213,14 @@
           <HelpTOCNode Title="ViewModel Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_ViewModel.htm" />
           <HelpTOCNode Title="Viewport Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_Viewport.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="977df585-0855-4ea1-b4ac-b7e2c481648d" Title="PointCloud3DView Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView.htm">
+        <HelpTOCNode Id="6d8070f0-eb9d-4882-8cea-09de9d804f2e" Title="PointCloud3DView Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView.htm">
           <HelpTOCNode Title="InitalizeScene Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_InitalizeScene.htm" />
           <HelpTOCNode Title="InitializeComponent Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_InitializeComponent.htm" />
           <HelpTOCNode Title="InitializePipeLine Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_InitializePipeLine.htm" />
           <HelpTOCNode Title="SetFOVs Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_SetFOVs.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="PointCloud3DView Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView.htm" />
-        <HelpTOCNode Id="b1dbe7fc-93b9-4a8a-ab8d-c6ce1c930617" Title="PointCloud3DView Fields" Url="html/Fields_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView.htm">
+        <HelpTOCNode Id="962d12c8-2e2f-45af-953d-3f270a30cb59" Title="PointCloud3DView Fields" Url="html/Fields_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView.htm">
           <HelpTOCNode Title="CameraInfoTopicProperty Field" Url="html/F_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_CameraInfoTopicProperty.htm" />
           <HelpTOCNode Title="DisparityTopicProperty Field" Url="html/F_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_DisparityTopicProperty.htm" />
           <HelpTOCNode Title="MaximumZProperty Field" Url="html/F_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_MaximumZProperty.htm" />
@@ -229,9 +229,9 @@
           <HelpTOCNode Title="RgbTopicProperty Field" Url="html/F_Rubedos_RosToolsApplicationBase_PointCloud_PointCloud3DView_RgbTopicProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e3b0a270-ced9-4005-973b-094b1632b328" Title="PointCloudViewModel Class" Url="html/T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel.htm">
+      <HelpTOCNode Id="7b61370a-bc6d-4359-b1c3-00fd8238efb4" Title="PointCloudViewModel Class" Url="html/T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel.htm">
         <HelpTOCNode Title="PointCloudViewModel Constructor " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel__ctor.htm" />
-        <HelpTOCNode Id="9e8794e7-2b8e-4935-8f1c-1ea9fb95b663" Title="PointCloudViewModel Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel.htm">
+        <HelpTOCNode Id="9b5db0f7-bd1c-4300-94db-30af05af2cdb" Title="PointCloudViewModel Properties" Url="html/Properties_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel.htm">
           <HelpTOCNode Title="AmbientLightColor Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_AmbientLightColor.htm" />
           <HelpTOCNode Title="ColorSchema Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_ColorSchema.htm" />
           <HelpTOCNode Title="DepthMap Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_DepthMap.htm" />
@@ -265,9 +265,9 @@
           <HelpTOCNode Title="XAxis Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_XAxis.htm" />
           <HelpTOCNode Title="ZAxis Property " Url="html/P_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_ZAxis.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b2886d95-941c-45d0-857d-189ccf92227b" Title="PointCloudViewModel Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel.htm">
+        <HelpTOCNode Id="be476569-d048-4406-80b9-cb870d204395" Title="PointCloudViewModel Methods" Url="html/Methods_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel.htm">
           <HelpTOCNode Title="CreateFOV Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_CreateFOV.htm" />
-          <HelpTOCNode Id="550b904e-a85c-4940-b6cc-bdf5feb10a99" Title="Dispose Method " Url="html/Overload_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_Dispose.htm">
+          <HelpTOCNode Id="8c505f23-09c4-4c13-9f50-08afd842ec65" Title="Dispose Method " Url="html/Overload_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_Dispose_1.htm" />
           </HelpTOCNode>
@@ -280,20 +280,20 @@
           <HelpTOCNode Title="StopUpdateThread Method " Url="html/M_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_StopUpdateThread.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="PointCloudViewModel Events" Url="html/Events_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel.htm" />
-        <HelpTOCNode Id="b69fc65a-75a6-479f-81a7-41aa5496dbde" Title="PointCloudViewModel Fields" Url="html/Fields_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel.htm">
+        <HelpTOCNode Id="c580f031-1c9c-410d-aadd-746ccd185d4e" Title="PointCloudViewModel Fields" Url="html/Fields_T_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel.htm">
           <HelpTOCNode Title="context Field" Url="html/F_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_context.htm" />
           <HelpTOCNode Title="imagingPipeline Field" Url="html/F_Rubedos_RosToolsApplicationBase_PointCloud_PointCloudViewModel_imagingPipeline.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e077e4d2-60dc-44f0-bd62-bed7f512ba33" Title="Rubedos.Viper.Net" Url="html/N_Rubedos_Viper_Net.htm">
-      <HelpTOCNode Id="73e4e435-5b62-4c18-80a8-f4b1b861548f" Title="CvmDevice Class" Url="html/T_Rubedos_Viper_Net_CvmDevice.htm">
-        <HelpTOCNode Id="98ab2835-5395-4604-92b0-f0a82f13d222" Title="CvmDevice Constructor " Url="html/Overload_Rubedos_Viper_Net_CvmDevice__ctor.htm">
+    <HelpTOCNode Id="d6cc72b9-66c7-4dd4-bed3-57b60fb690a2" Title="Rubedos.Viper.Net" Url="html/N_Rubedos_Viper_Net.htm">
+      <HelpTOCNode Id="f608c333-f460-4cff-b4ce-b950746e4d54" Title="CvmDevice Class" Url="html/T_Rubedos_Viper_Net_CvmDevice.htm">
+        <HelpTOCNode Id="bfcded3d-3633-4ac8-9d2b-abd39a8838fb" Title="CvmDevice Constructor " Url="html/Overload_Rubedos_Viper_Net_CvmDevice__ctor.htm">
           <HelpTOCNode Title="CvmDevice Constructor " Url="html/M_Rubedos_Viper_Net_CvmDevice__ctor.htm" />
           <HelpTOCNode Title="CvmDevice Constructor (String, String)" Url="html/M_Rubedos_Viper_Net_CvmDevice__ctor_1.htm" />
           <HelpTOCNode Title="CvmDevice Constructor (Uri, String)" Url="html/M_Rubedos_Viper_Net_CvmDevice__ctor_2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="62df03d5-ea16-4563-a4f4-b839a2211cdd" Title="CvmDevice Properties" Url="html/Properties_T_Rubedos_Viper_Net_CvmDevice.htm">
+        <HelpTOCNode Id="4a30adb2-473c-4802-8478-aac50f0a20c5" Title="CvmDevice Properties" Url="html/Properties_T_Rubedos_Viper_Net_CvmDevice.htm">
           <HelpTOCNode Title="ClientIp Property " Url="html/P_Rubedos_Viper_Net_CvmDevice_ClientIp.htm" />
           <HelpTOCNode Title="CurrentTopics Property " Url="html/P_Rubedos_Viper_Net_CvmDevice_CurrentTopics.htm" />
           <HelpTOCNode Title="CvmConfigManager Property " Url="html/P_Rubedos_Viper_Net_CvmDevice_CvmConfigManager.htm" />
@@ -306,9 +306,9 @@
           <HelpTOCNode Title="TopicUpdateInterval Property " Url="html/P_Rubedos_Viper_Net_CvmDevice_TopicUpdateInterval.htm" />
           <HelpTOCNode Title="TransformManager Property " Url="html/P_Rubedos_Viper_Net_CvmDevice_TransformManager.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="93b6cde2-eeca-4163-a651-ce1f65921c4f" Title="CvmDevice Methods" Url="html/Methods_T_Rubedos_Viper_Net_CvmDevice.htm">
+        <HelpTOCNode Id="e2a78b27-a222-482e-8d25-1a1b9c6ed9cb" Title="CvmDevice Methods" Url="html/Methods_T_Rubedos_Viper_Net_CvmDevice.htm">
           <HelpTOCNode Title="ChangeImageResolution Method " Url="html/M_Rubedos_Viper_Net_CvmDevice_ChangeImageResolution.htm" />
-          <HelpTOCNode Id="4eac4ef1-d361-4e07-805e-ab54aa678fa5" Title="Connect Method " Url="html/Overload_Rubedos_Viper_Net_CvmDevice_Connect.htm">
+          <HelpTOCNode Id="e9738ea0-601f-4738-ba80-504a2dd2183b" Title="Connect Method " Url="html/Overload_Rubedos_Viper_Net_CvmDevice_Connect.htm">
             <HelpTOCNode Title="Connect Method " Url="html/M_Rubedos_Viper_Net_CvmDevice_Connect.htm" />
             <HelpTOCNode Title="Connect Method (Uri, String)" Url="html/M_Rubedos_Viper_Net_CvmDevice_Connect_1.htm" />
           </HelpTOCNode>
@@ -323,12 +323,12 @@
           <HelpTOCNode Title="Restart Method " Url="html/M_Rubedos_Viper_Net_CvmDevice_Restart.htm" />
           <HelpTOCNode Title="Shutdown Method " Url="html/M_Rubedos_Viper_Net_CvmDevice_Shutdown.htm" />
           <HelpTOCNode Title="ToString Method " Url="html/M_Rubedos_Viper_Net_CvmDevice_ToString.htm" />
-          <HelpTOCNode Id="d05049b6-a347-4a8e-8ddc-0885767dd76c" Title="WaitForDynamicConfiguration Method " Url="html/Overload_Rubedos_Viper_Net_CvmDevice_WaitForDynamicConfiguration.htm">
+          <HelpTOCNode Id="0a81ff4e-12dc-460e-aba2-3e57e4bcb1fa" Title="WaitForDynamicConfiguration Method " Url="html/Overload_Rubedos_Viper_Net_CvmDevice_WaitForDynamicConfiguration.htm">
             <HelpTOCNode Title="WaitForDynamicConfiguration Method " Url="html/M_Rubedos_Viper_Net_CvmDevice_WaitForDynamicConfiguration.htm" />
             <HelpTOCNode Title="WaitForDynamicConfiguration Method (TimeSpan)" Url="html/M_Rubedos_Viper_Net_CvmDevice_WaitForDynamicConfiguration_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="3deb67d2-85b8-4948-8349-17beefaf4981" Title="CvmDevice Events" Url="html/Events_T_Rubedos_Viper_Net_CvmDevice.htm">
+        <HelpTOCNode Id="c4d49863-bf44-44b0-af4f-b5765bdbd115" Title="CvmDevice Events" Url="html/Events_T_Rubedos_Viper_Net_CvmDevice.htm">
           <HelpTOCNode Title="Connected Event" Url="html/E_Rubedos_Viper_Net_CvmDevice_Connected.htm" />
           <HelpTOCNode Title="Connecting Event" Url="html/E_Rubedos_Viper_Net_CvmDevice_Connecting.htm" />
           <HelpTOCNode Title="DeviceInfoChaged Event" Url="html/E_Rubedos_Viper_Net_CvmDevice_DeviceInfoChaged.htm" />
@@ -340,8 +340,8 @@
           <HelpTOCNode Title="TopicsUpdated Event" Url="html/E_Rubedos_Viper_Net_CvmDevice_TopicsUpdated.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="fddd876b-46af-4eb7-8f9f-130120954d60" Title="CvmDeviceException Class" Url="html/T_Rubedos_Viper_Net_CvmDeviceException.htm">
-        <HelpTOCNode Id="6a882903-237c-473d-99ea-f053dec2ca0a" Title="CvmDeviceException Constructor " Url="html/Overload_Rubedos_Viper_Net_CvmDeviceException__ctor.htm">
+      <HelpTOCNode Id="c8ae80d5-03ad-40bf-9fd7-9eb8dea9755e" Title="CvmDeviceException Class" Url="html/T_Rubedos_Viper_Net_CvmDeviceException.htm">
+        <HelpTOCNode Id="70d0ec15-6bc5-4756-9a7c-3f262ec787a8" Title="CvmDeviceException Constructor " Url="html/Overload_Rubedos_Viper_Net_CvmDeviceException__ctor.htm">
           <HelpTOCNode Title="CvmDeviceException Constructor " Url="html/M_Rubedos_Viper_Net_CvmDeviceException__ctor.htm" />
           <HelpTOCNode Title="CvmDeviceException Constructor (String)" Url="html/M_Rubedos_Viper_Net_CvmDeviceException__ctor_2.htm" />
           <HelpTOCNode Title="CvmDeviceException Constructor (SerializationInfo, StreamingContext)" Url="html/M_Rubedos_Viper_Net_CvmDeviceException__ctor_1.htm" />
@@ -351,9 +351,9 @@
         <HelpTOCNode Title="CvmDeviceException Methods" Url="html/Methods_T_Rubedos_Viper_Net_CvmDeviceException.htm" />
         <HelpTOCNode Title="CvmDeviceException Events" Url="html/Events_T_Rubedos_Viper_Net_CvmDeviceException.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2cc89bc6-c408-4592-bccc-24a584b28982" Title="CvmDeviceInfo Class" Url="html/T_Rubedos_Viper_Net_CvmDeviceInfo.htm">
+      <HelpTOCNode Id="ccad7e3f-06a5-4621-a83b-dd44cf355866" Title="CvmDeviceInfo Class" Url="html/T_Rubedos_Viper_Net_CvmDeviceInfo.htm">
         <HelpTOCNode Title="CvmDeviceInfo Constructor " Url="html/M_Rubedos_Viper_Net_CvmDeviceInfo__ctor.htm" />
-        <HelpTOCNode Id="4a8c2869-d46c-4ee9-be49-9379220aa562" Title="CvmDeviceInfo Properties" Url="html/Properties_T_Rubedos_Viper_Net_CvmDeviceInfo.htm">
+        <HelpTOCNode Id="f0203ad7-34d7-4e87-82c5-0de1917c829a" Title="CvmDeviceInfo Properties" Url="html/Properties_T_Rubedos_Viper_Net_CvmDeviceInfo.htm">
           <HelpTOCNode Title="Baseline Property " Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_Baseline.htm" />
           <HelpTOCNode Title="CvmSoftwareVersion Property " Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_CvmSoftwareVersion.htm" />
           <HelpTOCNode Title="DeviceVersion Property " Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_DeviceVersion.htm" />
@@ -367,19 +367,19 @@
           <HelpTOCNode Title="SupportedImageFormats Property " Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_SupportedImageFormats.htm" />
           <HelpTOCNode Title="TopicPrefix Property " Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_TopicPrefix.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9a747343-7337-407b-935d-2fc9c8e1ec22" Title="CvmDeviceInfo Methods" Url="html/Methods_T_Rubedos_Viper_Net_CvmDeviceInfo.htm">
+        <HelpTOCNode Id="67814226-0b8e-46ad-a21c-cef8b464bfb6" Title="CvmDeviceInfo Methods" Url="html/Methods_T_Rubedos_Viper_Net_CvmDeviceInfo.htm">
           <HelpTOCNode Title="SetCamInfo Method " Url="html/M_Rubedos_Viper_Net_CvmDeviceInfo_SetCamInfo.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="edce76d1-b3bc-4313-955f-63b77600f6fc" Title="DeviceConfigManager Class" Url="html/T_Rubedos_Viper_Net_DeviceConfigManager.htm">
+      <HelpTOCNode Id="ef174c0e-bae1-41eb-bca7-bd78d9abbdf3" Title="DeviceConfigManager Class" Url="html/T_Rubedos_Viper_Net_DeviceConfigManager.htm">
         <HelpTOCNode Title="DeviceConfigManager Constructor " Url="html/M_Rubedos_Viper_Net_DeviceConfigManager__ctor.htm" />
-        <HelpTOCNode Id="5589fd12-c643-45f9-b91c-1802d6bd4d43" Title="DeviceConfigManager Properties" Url="html/Properties_T_Rubedos_Viper_Net_DeviceConfigManager.htm">
+        <HelpTOCNode Id="7db30970-d1d9-41cb-ad3a-ca2831a7df64" Title="DeviceConfigManager Properties" Url="html/Properties_T_Rubedos_Viper_Net_DeviceConfigManager.htm">
           <HelpTOCNode Title="DeviceConfiguration Property " Url="html/P_Rubedos_Viper_Net_DeviceConfigManager_DeviceConfiguration.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="73511b3a-b5e0-46e3-97a7-1c85c8177bbe" Title="DeviceConfigManager Methods" Url="html/Methods_T_Rubedos_Viper_Net_DeviceConfigManager.htm">
+        <HelpTOCNode Id="7159eaac-deaf-4025-87b7-456bd06c090c" Title="DeviceConfigManager Methods" Url="html/Methods_T_Rubedos_Viper_Net_DeviceConfigManager.htm">
           <HelpTOCNode Title="CreateDynamicReconfigureInterface Method " Url="html/M_Rubedos_Viper_Net_DeviceConfigManager_CreateDynamicReconfigureInterface.htm" />
           <HelpTOCNode Title="CreateNodeHandle Method " Url="html/M_Rubedos_Viper_Net_DeviceConfigManager_CreateNodeHandle.htm" />
-          <HelpTOCNode Id="e27a9caf-c2a3-44f4-a417-8312dbed7a7c" Title="Dispose Method " Url="html/Overload_Rubedos_Viper_Net_DeviceConfigManager_Dispose.htm">
+          <HelpTOCNode Id="b7905ef3-9de8-466d-8314-7ec197dcfb25" Title="Dispose Method " Url="html/Overload_Rubedos_Viper_Net_DeviceConfigManager_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_Rubedos_Viper_Net_DeviceConfigManager_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_Rubedos_Viper_Net_DeviceConfigManager_Dispose_1.htm" />
           </HelpTOCNode>
@@ -397,62 +397,62 @@
           <HelpTOCNode Title="ToString Method " Url="html/M_Rubedos_Viper_Net_DeviceConfigManager_ToString.htm" />
           <HelpTOCNode Title="ToXmlString Method " Url="html/M_Rubedos_Viper_Net_DeviceConfigManager_ToXmlString.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8cb21b12-8654-4e97-b343-d6cf453fec81" Title="DeviceConfigManager Events" Url="html/Events_T_Rubedos_Viper_Net_DeviceConfigManager.htm">
+        <HelpTOCNode Id="92363db3-675d-4037-9e0d-fc7bcedf8f35" Title="DeviceConfigManager Events" Url="html/Events_T_Rubedos_Viper_Net_DeviceConfigManager.htm">
           <HelpTOCNode Title="ConfigurationUpdated Event" Url="html/E_Rubedos_Viper_Net_DeviceConfigManager_ConfigurationUpdated.htm" />
           <HelpTOCNode Title="DescriptionsReceived Event" Url="html/E_Rubedos_Viper_Net_DeviceConfigManager_DescriptionsReceived.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_Viper_Net_FilterTopicsOptionsEnum.htm" />
       <HelpTOCNode Title="ImageResolution Enumeration" Url="html/T_Rubedos_Viper_Net_ImageResolution.htm" />
-      <HelpTOCNode Id="2181e75e-cbed-41ac-ba23-2bfa3076b2f2" Title="LicenseInfo Class" Url="html/T_Rubedos_Viper_Net_LicenseInfo.htm">
+      <HelpTOCNode Id="2412ab08-4339-4bf8-a31d-e6c9d1c1f18f" Title="LicenseInfo Class" Url="html/T_Rubedos_Viper_Net_LicenseInfo.htm">
         <HelpTOCNode Title="LicenseInfo Constructor " Url="html/M_Rubedos_Viper_Net_LicenseInfo__ctor.htm" />
-        <HelpTOCNode Id="4b5e4d9f-730c-4e3b-8d79-50d6acd9fa80" Title="LicenseInfo Properties" Url="html/Properties_T_Rubedos_Viper_Net_LicenseInfo.htm">
+        <HelpTOCNode Id="4368f488-d36c-416c-b50f-529e606c08ea" Title="LicenseInfo Properties" Url="html/Properties_T_Rubedos_Viper_Net_LicenseInfo.htm">
           <HelpTOCNode Title="LicenseItems Property " Url="html/P_Rubedos_Viper_Net_LicenseInfo_LicenseItems.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="LicenseInfo Methods" Url="html/Methods_T_Rubedos_Viper_Net_LicenseInfo.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3e6ece15-c714-4a4a-8a33-f2eab61140a2" Title="RosNodeConfiguration Class" Url="html/T_Rubedos_Viper_Net_RosNodeConfiguration.htm">
-        <HelpTOCNode Id="9d991f4a-14b0-4aa8-a07a-8a29f15ed299" Title="RosNodeConfiguration Constructor " Url="html/Overload_Rubedos_Viper_Net_RosNodeConfiguration__ctor.htm">
+      <HelpTOCNode Id="146a35fe-ca33-4696-a4ed-2a7a0f054331" Title="RosNodeConfiguration Class" Url="html/T_Rubedos_Viper_Net_RosNodeConfiguration.htm">
+        <HelpTOCNode Id="4add77a2-1cc9-430a-ab97-f200c383e4c2" Title="RosNodeConfiguration Constructor " Url="html/Overload_Rubedos_Viper_Net_RosNodeConfiguration__ctor.htm">
           <HelpTOCNode Title="RosNodeConfiguration Constructor " Url="html/M_Rubedos_Viper_Net_RosNodeConfiguration__ctor.htm" />
           <HelpTOCNode Title="RosNodeConfiguration Constructor (String)" Url="html/M_Rubedos_Viper_Net_RosNodeConfiguration__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="fbc24223-b43d-4892-ae83-599c6779f442" Title="RosNodeConfiguration Properties" Url="html/Properties_T_Rubedos_Viper_Net_RosNodeConfiguration.htm">
+        <HelpTOCNode Id="77ff03b5-bc36-449c-96c1-7b7a65c32446" Title="RosNodeConfiguration Properties" Url="html/Properties_T_Rubedos_Viper_Net_RosNodeConfiguration.htm">
           <HelpTOCNode Title="Description Property " Url="html/P_Rubedos_Viper_Net_RosNodeConfiguration_Description.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_Rubedos_Viper_Net_RosNodeConfiguration_Name.htm" />
           <HelpTOCNode Title="Parameters Property " Url="html/P_Rubedos_Viper_Net_RosNodeConfiguration_Parameters.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6fa56d85-65e2-4846-9a58-29e3b00b187b" Title="RosNodeConfiguration Methods" Url="html/Methods_T_Rubedos_Viper_Net_RosNodeConfiguration.htm">
+        <HelpTOCNode Id="488ad7dd-a7cc-4527-82d2-4eaa46d6996d" Title="RosNodeConfiguration Methods" Url="html/Methods_T_Rubedos_Viper_Net_RosNodeConfiguration.htm">
           <HelpTOCNode Title="GetSchema Method " Url="html/M_Rubedos_Viper_Net_RosNodeConfiguration_GetSchema.htm" />
           <HelpTOCNode Title="ReadXml Method " Url="html/M_Rubedos_Viper_Net_RosNodeConfiguration_ReadXml.htm" />
           <HelpTOCNode Title="WriteXml Method " Url="html/M_Rubedos_Viper_Net_RosNodeConfiguration_WriteXml.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5672ef0a-7048-4c49-b270-6a6ee9e62206" Title="RosNodeConfiguration Events" Url="html/Events_T_Rubedos_Viper_Net_RosNodeConfiguration.htm">
+        <HelpTOCNode Id="bc4fd0f7-320d-4daf-bda4-2b7d25a1633f" Title="RosNodeConfiguration Events" Url="html/Events_T_Rubedos_Viper_Net_RosNodeConfiguration.htm">
           <HelpTOCNode Title="ConfigParameterAdded Event" Url="html/E_Rubedos_Viper_Net_RosNodeConfiguration_ConfigParameterAdded.htm" />
           <HelpTOCNode Title="DescriptionUpdated Event" Url="html/E_Rubedos_Viper_Net_RosNodeConfiguration_DescriptionUpdated.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8cdfee86-feba-421c-b035-7b021313915c" Title="Rubedos.Viper.Net.DynamicReconfigure" Url="html/N_Rubedos_Viper_Net_DynamicReconfigure.htm">
-      <HelpTOCNode Id="9c178fa9-357b-4aeb-88f3-3eb6fc0f54a6" Title="ConfigNodeAddedEventArgs Class" Url="html/T_Rubedos_Viper_Net_DynamicReconfigure_ConfigNodeAddedEventArgs.htm">
+    <HelpTOCNode Id="f0234182-6a89-4240-9338-4ba175c008af" Title="Rubedos.Viper.Net.DynamicReconfigure" Url="html/N_Rubedos_Viper_Net_DynamicReconfigure.htm">
+      <HelpTOCNode Id="8d39ca23-4400-481a-801a-e60a3c9c3724" Title="ConfigNodeAddedEventArgs Class" Url="html/T_Rubedos_Viper_Net_DynamicReconfigure_ConfigNodeAddedEventArgs.htm">
         <HelpTOCNode Title="ConfigNodeAddedEventArgs Constructor " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_ConfigNodeAddedEventArgs__ctor.htm" />
-        <HelpTOCNode Id="23373b12-7d6d-42be-804f-b0c3fe17365f" Title="ConfigNodeAddedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_DynamicReconfigure_ConfigNodeAddedEventArgs.htm">
+        <HelpTOCNode Id="fc3745c5-3da4-425b-84e6-99afe7b103d3" Title="ConfigNodeAddedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_DynamicReconfigure_ConfigNodeAddedEventArgs.htm">
           <HelpTOCNode Title="NewNode Property " Url="html/P_Rubedos_Viper_Net_DynamicReconfigure_ConfigNodeAddedEventArgs_NewNode.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ConfigNodeAddedEventArgs Methods" Url="html/Methods_T_Rubedos_Viper_Net_DynamicReconfigure_ConfigNodeAddedEventArgs.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8a5a98ae-bdac-422f-bbc0-2c2e01539c89" Title="ConfigParameterAddedEventArgs Class" Url="html/T_Rubedos_Viper_Net_DynamicReconfigure_ConfigParameterAddedEventArgs.htm">
+      <HelpTOCNode Id="0a2d08e7-595f-4173-94ad-07acb249632b" Title="ConfigParameterAddedEventArgs Class" Url="html/T_Rubedos_Viper_Net_DynamicReconfigure_ConfigParameterAddedEventArgs.htm">
         <HelpTOCNode Title="ConfigParameterAddedEventArgs Constructor " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_ConfigParameterAddedEventArgs__ctor.htm" />
-        <HelpTOCNode Id="d15f5e7f-7673-4788-be12-0c686615e529" Title="ConfigParameterAddedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_DynamicReconfigure_ConfigParameterAddedEventArgs.htm">
+        <HelpTOCNode Id="5e43cf3b-cb9d-4465-ab44-02d04443df75" Title="ConfigParameterAddedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_DynamicReconfigure_ConfigParameterAddedEventArgs.htm">
           <HelpTOCNode Title="NewParameter Property " Url="html/P_Rubedos_Viper_Net_DynamicReconfigure_ConfigParameterAddedEventArgs_NewParameter.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ConfigParameterAddedEventArgs Methods" Url="html/Methods_T_Rubedos_Viper_Net_DynamicReconfigure_ConfigParameterAddedEventArgs.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0a681541-a93d-49ec-8b47-2126ab55d898" Title="RosDeviceConfiguration Class" Url="html/T_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration.htm">
+      <HelpTOCNode Id="7285977d-1fd7-4720-a4d6-6dc55a6dc9b5" Title="RosDeviceConfiguration Class" Url="html/T_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration.htm">
         <HelpTOCNode Title="RosDeviceConfiguration Constructor " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration__ctor.htm" />
-        <HelpTOCNode Id="5869045a-2d0c-4323-ae4c-4719f6396adf" Title="RosDeviceConfiguration Properties" Url="html/Properties_T_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration.htm">
+        <HelpTOCNode Id="79b08b7a-de3d-4224-8071-02775e3e34ef" Title="RosDeviceConfiguration Properties" Url="html/Properties_T_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration.htm">
           <HelpTOCNode Title="NodeConfigurations Property " Url="html/P_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration_NodeConfigurations.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="42d92e57-1bb5-4de5-8dc0-36dfe1687ca6" Title="RosDeviceConfiguration Methods" Url="html/Methods_T_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration.htm">
+        <HelpTOCNode Id="cb18b6e2-a8bc-4a37-8aa8-cb234fb86dd6" Title="RosDeviceConfiguration Methods" Url="html/Methods_T_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration.htm">
           <HelpTOCNode Title="CheckIfCompatible Method " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration_CheckIfCompatible.htm" />
           <HelpTOCNode Title="CompareSubset Method " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration_CompareSubset.htm" />
           <HelpTOCNode Title="CreateNodeConfiguration Method " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration_CreateNodeConfiguration.htm" />
@@ -460,13 +460,13 @@
           <HelpTOCNode Title="GetHashCode Method " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration_GetHashCode.htm" />
           <HelpTOCNode Title="RemoveConfiguration Method " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration_RemoveConfiguration.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="af203464-ebd0-4941-b81a-194b3721a2da" Title="RosDeviceConfiguration Events" Url="html/Events_T_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration.htm">
+        <HelpTOCNode Id="b189b183-5e0b-4a0a-9539-3765f5d4d6e7" Title="RosDeviceConfiguration Events" Url="html/Events_T_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration.htm">
           <HelpTOCNode Title="ConfigNodeAdded Event" Url="html/E_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration_ConfigNodeAdded.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7de05143-73e2-4c80-a6e3-e4e49b3d7901" Title="RosDynamicConfigParameter(T) Class" Url="html/T_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1.htm">
+      <HelpTOCNode Id="16674971-f7a9-4105-ae51-615772ee3734" Title="RosDynamicConfigParameter(T) Class" Url="html/T_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1.htm">
         <HelpTOCNode Title="RosDynamicConfigParameter(T) Constructor " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1__ctor.htm" />
-        <HelpTOCNode Id="e572e5cd-0e78-4898-8086-b2ef54130d8f" Title="RosDynamicConfigParameter(T) Properties" Url="html/Properties_T_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1.htm">
+        <HelpTOCNode Id="ea2f3af7-b0c1-49d5-8806-3c53448286cf" Title="RosDynamicConfigParameter(T) Properties" Url="html/Properties_T_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1.htm">
           <HelpTOCNode Title="Default Property " Url="html/P_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_Default.htm" />
           <HelpTOCNode Title="DefaultObject Property " Url="html/P_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_DefaultObject.htm" />
           <HelpTOCNode Title="Description Property " Url="html/P_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_Description.htm" />
@@ -479,22 +479,22 @@
           <HelpTOCNode Title="ValueObject Property " Url="html/P_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_ValueObject.htm" />
           <HelpTOCNode Title="ValueType Property " Url="html/P_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_ValueType.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6afbaed0-06c4-4f92-868b-ff7041f59b60" Title="RosDynamicConfigParameter(T) Methods" Url="html/Methods_T_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1.htm">
+        <HelpTOCNode Id="5f18398e-fc66-4146-bc67-e68ce5dc541b" Title="RosDynamicConfigParameter(T) Methods" Url="html/Methods_T_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1.htm">
           <HelpTOCNode Title="Compare Method " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_Compare.htm" />
           <HelpTOCNode Title="ReadXml Method " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_ReadXml.htm" />
           <HelpTOCNode Title="SetValueAction Method " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_SetValueAction.htm" />
           <HelpTOCNode Title="ValueFromString Method " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_ValueFromString.htm" />
           <HelpTOCNode Title="WriteXml Method " Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_WriteXml.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d984545b-6b6b-45e0-a49a-02382fa5bea6" Title="RosDynamicConfigParameter(T) Events" Url="html/Events_T_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1.htm">
+        <HelpTOCNode Id="22af9b45-c495-48ff-9a28-904453efe6f2" Title="RosDynamicConfigParameter(T) Events" Url="html/Events_T_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1.htm">
           <HelpTOCNode Title="ItemChanged Event" Url="html/E_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_ItemChanged.htm" />
           <HelpTOCNode Title="ValueChanged Event" Url="html/E_Rubedos_Viper_Net_DynamicReconfigure_RosDynamicConfigParameter_1_ValueChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4930bf48-4e19-418e-aec3-2bd4a1f559ba" Title="Rubedos.Viper.Net.Iface" Url="html/N_Rubedos_Viper_Net_Iface.htm">
-      <HelpTOCNode Id="74d871fa-f4bd-48b7-8f4b-728804a0ebe9" Title="IDynamicConfigParameter Interface" Url="html/T_Rubedos_Viper_Net_Iface_IDynamicConfigParameter.htm">
-        <HelpTOCNode Id="b3437d01-e015-495e-b352-9c10dc1bba0f" Title="IDynamicConfigParameter Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_IDynamicConfigParameter.htm">
+    <HelpTOCNode Id="7b058160-6dd4-4818-927f-ef6675ef3b26" Title="Rubedos.Viper.Net.Iface" Url="html/N_Rubedos_Viper_Net_Iface.htm">
+      <HelpTOCNode Id="3aaa7637-e703-4338-88ee-47625578be0f" Title="IDynamicConfigParameter Interface" Url="html/T_Rubedos_Viper_Net_Iface_IDynamicConfigParameter.htm">
+        <HelpTOCNode Id="17d56705-ffd6-4e7e-b5e0-0217bf93ecba" Title="IDynamicConfigParameter Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_IDynamicConfigParameter.htm">
           <HelpTOCNode Title="DefaultObject Property " Url="html/P_Rubedos_Viper_Net_Iface_IDynamicConfigParameter_DefaultObject.htm" />
           <HelpTOCNode Title="Description Property " Url="html/P_Rubedos_Viper_Net_Iface_IDynamicConfigParameter_Description.htm" />
           <HelpTOCNode Title="MaxObject Property " Url="html/P_Rubedos_Viper_Net_Iface_IDynamicConfigParameter_MaxObject.htm" />
@@ -503,42 +503,42 @@
           <HelpTOCNode Title="ValueObject Property " Url="html/P_Rubedos_Viper_Net_Iface_IDynamicConfigParameter_ValueObject.htm" />
           <HelpTOCNode Title="ValueType Property " Url="html/P_Rubedos_Viper_Net_Iface_IDynamicConfigParameter_ValueType.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1504b876-9e2e-4e2b-9ea1-a97a12f5cdb6" Title="IDynamicConfigParameter Methods" Url="html/Methods_T_Rubedos_Viper_Net_Iface_IDynamicConfigParameter.htm">
+        <HelpTOCNode Id="3ee3cf91-4134-43ba-bad6-2d1dbedd1280" Title="IDynamicConfigParameter Methods" Url="html/Methods_T_Rubedos_Viper_Net_Iface_IDynamicConfigParameter.htm">
           <HelpTOCNode Title="Compare Method " Url="html/M_Rubedos_Viper_Net_Iface_IDynamicConfigParameter_Compare.htm" />
           <HelpTOCNode Title="ReadXml Method " Url="html/M_Rubedos_Viper_Net_Iface_IDynamicConfigParameter_ReadXml.htm" />
           <HelpTOCNode Title="ValueFromString Method " Url="html/M_Rubedos_Viper_Net_Iface_IDynamicConfigParameter_ValueFromString.htm" />
           <HelpTOCNode Title="WriteXml Method " Url="html/M_Rubedos_Viper_Net_Iface_IDynamicConfigParameter_WriteXml.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5e9cd1e9-85d1-4df0-b062-4cb84f95c223" Title="IDynamicConfigParameter Events" Url="html/Events_T_Rubedos_Viper_Net_Iface_IDynamicConfigParameter.htm">
+        <HelpTOCNode Id="f4a3e8f5-4cb5-4697-a8b3-bd53a97b1031" Title="IDynamicConfigParameter Events" Url="html/Events_T_Rubedos_Viper_Net_Iface_IDynamicConfigParameter.htm">
           <HelpTOCNode Title="ValueChanged Event" Url="html/E_Rubedos_Viper_Net_Iface_IDynamicConfigParameter_ValueChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9313079f-ad4d-488c-bf85-009e5b45228e" Title="IPerceptionApp Interface" Url="html/T_Rubedos_Viper_Net_Iface_IPerceptionApp.htm">
-        <HelpTOCNode Id="01c32916-b69a-414e-966e-0a918259d670" Title="IPerceptionApp Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_IPerceptionApp.htm">
+      <HelpTOCNode Id="4afca088-af48-4f35-a597-cc04178e3e10" Title="IPerceptionApp Interface" Url="html/T_Rubedos_Viper_Net_Iface_IPerceptionApp.htm">
+        <HelpTOCNode Id="1fb9fa22-c2e7-4e64-bd32-d7ec0d80fb58" Title="IPerceptionApp Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_IPerceptionApp.htm">
           <HelpTOCNode Title="Description Property " Url="html/P_Rubedos_Viper_Net_Iface_IPerceptionApp_Description.htm" />
           <HelpTOCNode Title="IsActivated Property " Url="html/P_Rubedos_Viper_Net_Iface_IPerceptionApp_IsActivated.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_Rubedos_Viper_Net_Iface_IPerceptionApp_Name.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="4abaeb80-9f45-4c8f-ad5c-1b19107d9185" Title="IPerceptionApp Methods" Url="html/Methods_T_Rubedos_Viper_Net_Iface_IPerceptionApp.htm">
+        <HelpTOCNode Id="7182dc46-16ba-4b89-8e7a-29875cce5fed" Title="IPerceptionApp Methods" Url="html/Methods_T_Rubedos_Viper_Net_Iface_IPerceptionApp.htm">
           <HelpTOCNode Title="Activate Method " Url="html/M_Rubedos_Viper_Net_Iface_IPerceptionApp_Activate.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1bd30bed-45a0-498d-84e9-2e0d9e222ea6" Title="ISoftwareUpdateManager Interface" Url="html/T_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager.htm">
-        <HelpTOCNode Id="ac947163-770d-4432-bf60-2f7b04653341" Title="ISoftwareUpdateManager Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager.htm">
+      <HelpTOCNode Id="b6137d9a-878a-4f38-bab1-9638df408975" Title="ISoftwareUpdateManager Interface" Url="html/T_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager.htm">
+        <HelpTOCNode Id="2454fcd3-aaaf-4067-966f-a79a45944a99" Title="ISoftwareUpdateManager Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager.htm">
           <HelpTOCNode Title="AllowAutoUpdate Property " Url="html/P_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager_AllowAutoUpdate.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f1cd3d16-ccca-4017-a376-f1686cd74d32" Title="ISoftwareUpdateManager Methods" Url="html/Methods_T_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager.htm">
+        <HelpTOCNode Id="afaaed94-9f02-4843-b94a-29a92bd29109" Title="ISoftwareUpdateManager Methods" Url="html/Methods_T_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager.htm">
           <HelpTOCNode Title="GetListOfVersions Method " Url="html/M_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager_GetListOfVersions.htm" />
           <HelpTOCNode Title="ResetToFactoryVersion Method " Url="html/M_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager_ResetToFactoryVersion.htm" />
           <HelpTOCNode Title="UpdateToVersion Method " Url="html/M_Rubedos_Viper_Net_Iface_ISoftwareUpdateManager_UpdateToVersion.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e507e1ee-3035-4fab-bbec-d6b0a5eb84bd" Title="RectangleOfInterest Class" Url="html/T_Rubedos_Viper_Net_Iface_RectangleOfInterest.htm">
-        <HelpTOCNode Id="7005994b-3422-41e1-8b57-d13fc8ff7175" Title="RectangleOfInterest Constructor " Url="html/Overload_Rubedos_Viper_Net_Iface_RectangleOfInterest__ctor.htm">
+      <HelpTOCNode Id="75d327df-2f6a-4df2-ac87-859bc37a6259" Title="RectangleOfInterest Class" Url="html/T_Rubedos_Viper_Net_Iface_RectangleOfInterest.htm">
+        <HelpTOCNode Id="01000265-91b6-467b-97d6-a8da7298d9c8" Title="RectangleOfInterest Constructor " Url="html/Overload_Rubedos_Viper_Net_Iface_RectangleOfInterest__ctor.htm">
           <HelpTOCNode Title="RectangleOfInterest Constructor " Url="html/M_Rubedos_Viper_Net_Iface_RectangleOfInterest__ctor.htm" />
           <HelpTOCNode Title="RectangleOfInterest Constructor (BoundingBox)" Url="html/M_Rubedos_Viper_Net_Iface_RectangleOfInterest__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a4c049b5-4e5f-4e92-86c3-6bc2254d1a40" Title="RectangleOfInterest Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_RectangleOfInterest.htm">
+        <HelpTOCNode Id="a741862d-d69a-4e35-9ac3-7cb87012e95a" Title="RectangleOfInterest Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_RectangleOfInterest.htm">
           <HelpTOCNode Title="BoundingBoxGeometry Property " Url="html/P_Rubedos_Viper_Net_Iface_RectangleOfInterest_BoundingBoxGeometry.htm" />
           <HelpTOCNode Title="Depth Property " Url="html/P_Rubedos_Viper_Net_Iface_RectangleOfInterest_Depth.htm" />
           <HelpTOCNode Title="Geom Property " Url="html/P_Rubedos_Viper_Net_Iface_RectangleOfInterest_Geom.htm" />
@@ -547,23 +547,23 @@
           <HelpTOCNode Title="Rect Property " Url="html/P_Rubedos_Viper_Net_Iface_RectangleOfInterest_Rect.htm" />
           <HelpTOCNode Title="SeqId Property " Url="html/P_Rubedos_Viper_Net_Iface_RectangleOfInterest_SeqId.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c344075b-2af6-43fe-ae84-a6cf8f1cf723" Title="RectangleOfInterest Methods" Url="html/Methods_T_Rubedos_Viper_Net_Iface_RectangleOfInterest.htm">
+        <HelpTOCNode Id="f17952a2-cef4-4ff3-b0ca-973cb7b39031" Title="RectangleOfInterest Methods" Url="html/Methods_T_Rubedos_Viper_Net_Iface_RectangleOfInterest.htm">
           <HelpTOCNode Title="IdleTime Method " Url="html/M_Rubedos_Viper_Net_Iface_RectangleOfInterest_IdleTime.htm" />
           <HelpTOCNode Title="IsTheSame Method " Url="html/M_Rubedos_Viper_Net_Iface_RectangleOfInterest_IsTheSame.htm" />
           <HelpTOCNode Title="ToString Method " Url="html/M_Rubedos_Viper_Net_Iface_RectangleOfInterest_ToString.htm" />
           <HelpTOCNode Title="UpdateRoi Method " Url="html/M_Rubedos_Viper_Net_Iface_RectangleOfInterest_UpdateRoi.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8e1a8368-1b1f-49a5-a853-3ee51764ccd7" Title="RosoutMessagedEventArgs Class" Url="html/T_Rubedos_Viper_Net_Iface_RosoutMessagedEventArgs.htm">
+      <HelpTOCNode Id="96257b62-aaa7-432b-b722-70ac366588f0" Title="RosoutMessagedEventArgs Class" Url="html/T_Rubedos_Viper_Net_Iface_RosoutMessagedEventArgs.htm">
         <HelpTOCNode Title="RosoutMessagedEventArgs Constructor " Url="html/M_Rubedos_Viper_Net_Iface_RosoutMessagedEventArgs__ctor.htm" />
-        <HelpTOCNode Id="87f3d130-22db-49d1-89a2-04375a21ab1b" Title="RosoutMessagedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_RosoutMessagedEventArgs.htm">
+        <HelpTOCNode Id="4cc94f2a-d6b9-4d62-9680-77a2cc6ffb62" Title="RosoutMessagedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_RosoutMessagedEventArgs.htm">
           <HelpTOCNode Title="Message Property " Url="html/P_Rubedos_Viper_Net_Iface_RosoutMessagedEventArgs_Message.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="RosoutMessagedEventArgs Methods" Url="html/Methods_T_Rubedos_Viper_Net_Iface_RosoutMessagedEventArgs.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e2b55618-f243-4dea-9a68-1b04d1c243e4" Title="TopicsUpdatedEventArgs Class" Url="html/T_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs.htm">
+      <HelpTOCNode Id="7a304be4-e2e0-4f73-b082-7f3778ad4aee" Title="TopicsUpdatedEventArgs Class" Url="html/T_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs.htm">
         <HelpTOCNode Title="TopicsUpdatedEventArgs Constructor " Url="html/M_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs__ctor.htm" />
-        <HelpTOCNode Id="e1d177a9-7f61-4214-b534-8fda3da580a4" Title="TopicsUpdatedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs.htm">
+        <HelpTOCNode Id="1e671248-a6f8-4351-99eb-21ac97012397" Title="TopicsUpdatedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs.htm">
           <HelpTOCNode Title="AllTopics Property " Url="html/P_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs_AllTopics.htm" />
           <HelpTOCNode Title="NewTopics Property " Url="html/P_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs_NewTopics.htm" />
           <HelpTOCNode Title="RemovedTopics Property " Url="html/P_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs_RemovedTopics.htm" />
@@ -571,75 +571,108 @@
         <HelpTOCNode Title="TopicsUpdatedEventArgs Methods" Url="html/Methods_T_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="27acd097-da27-4204-9057-18cced040beb" Title="Rubedos.Viper.Net.PerceptionApps" Url="html/N_Rubedos_Viper_Net_PerceptionApps.htm">
-      <HelpTOCNode Id="4ff348fb-d658-4124-89c4-b7f0e1e184ab" Title="CoreApp Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_CoreApp.htm">
-        <HelpTOCNode Id="335d7c04-6b43-4e16-a147-586ea1b1e1c3" Title="CoreApp Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_CoreApp.htm">
+    <HelpTOCNode Id="d9822ac0-7ba4-4ccc-94e7-dc4dd0d4c574" Title="Rubedos.Viper.Net.PerceptionApps" Url="html/N_Rubedos_Viper_Net_PerceptionApps.htm">
+      <HelpTOCNode Id="fbf5541e-734e-4c8e-b010-791feda7b2e9" Title="CoreApp Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_CoreApp.htm">
+        <HelpTOCNode Id="c59ca2be-2e40-4d6c-95fc-1cfc615a8094" Title="CoreApp Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_CoreApp.htm">
           <HelpTOCNode Title="Description Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_CoreApp_Description.htm" />
           <HelpTOCNode Title="IsActivated Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_CoreApp_IsActivated.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_CoreApp_Name.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="993afa7c-e0cc-4154-a253-c6ef74c30821" Title="CoreApp Methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_CoreApp.htm">
+        <HelpTOCNode Id="3931c312-a912-42d9-8263-012e16042695" Title="CoreApp Methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_CoreApp.htm">
           <HelpTOCNode Title="Activate Method " Url="html/M_Rubedos_Viper_Net_PerceptionApps_CoreApp_Activate.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="796e53bd-7bf7-4167-99fb-93c52ad3ce81" Title="FollowMeApp Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_FollowMeApp.htm">
-        <HelpTOCNode Id="f2f85a3f-4307-4c5d-9053-3de1df7bef9d" Title="FollowMeApp Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_FollowMeApp.htm">
+      <HelpTOCNode Id="39a8bb6c-346a-4925-bde4-a518ef0df80d" Title="FollowMeApp Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_FollowMeApp.htm">
+        <HelpTOCNode Id="41ec6dff-5348-4666-8c55-55e77019c1ec" Title="FollowMeApp Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_FollowMeApp.htm">
           <HelpTOCNode Title="Description Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Description.htm" />
           <HelpTOCNode Title="DetectedPersons Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_DetectedPersons.htm" />
           <HelpTOCNode Title="IsActivated Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_IsActivated.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Name.htm" />
           <HelpTOCNode Title="TypeName Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_TypeName.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="67f15a34-8ec1-410c-bd45-ef94572e5e79" Title="FollowMeApp Methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_FollowMeApp.htm">
+        <HelpTOCNode Id="be886f48-f621-43e7-ae99-033abd1b8639" Title="FollowMeApp Methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_FollowMeApp.htm">
           <HelpTOCNode Title="Activate Method " Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Activate.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Dispose.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Start.htm" />
           <HelpTOCNode Title="StartTracking Method " Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_StartTracking.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Stop.htm" />
+          <HelpTOCNode Title="StopTracking Method " Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_StopTracking.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d078df0c-606b-4ac8-9cfe-5db22502ca3c" Title="FollowMeApp Events" Url="html/Events_T_Rubedos_Viper_Net_PerceptionApps_FollowMeApp.htm">
-          <HelpTOCNode Title="TargetPositionChanged Event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_TargetPositionChanged.htm" />
+        <HelpTOCNode Id="f0047559-54dd-4a06-a694-55269f253205" Title="FollowMeApp Events" Url="html/Events_T_Rubedos_Viper_Net_PerceptionApps_FollowMeApp.htm">
+          <HelpTOCNode Title="OnPersonDetected Event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnPersonDetected.htm" />
+          <HelpTOCNode Title="OnPersonPositionChanged Event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnPersonPositionChanged.htm" />
+          <HelpTOCNode Title="OnStarted Event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnStarted.htm" />
+          <HelpTOCNode Title="OnStopped Event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnStopped.htm" />
+          <HelpTOCNode Title="OnTargetDistanceChanged Event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnTargetDistanceChanged.htm" />
+          <HelpTOCNode Title="OnTargetPositionChanged Event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnTargetPositionChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="83e107cb-e59f-4c9a-b8df-bddf7d4ca11d" Title="Person Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_Person.htm">
+      <HelpTOCNode Id="6b661e52-9420-442c-ba33-aa598569b111" Title="Person Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_Person.htm">
         <HelpTOCNode Title="Person Constructor " Url="html/M_Rubedos_Viper_Net_PerceptionApps_Person__ctor.htm" />
-        <HelpTOCNode Id="8bb85331-fc05-48f4-a64d-dbf5e9035a74" Title="Person Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_Person.htm">
+        <HelpTOCNode Id="eb809441-9091-432d-a2a8-aac9c4fbec36" Title="Person Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_Person.htm">
+          <HelpTOCNode Title="Distance Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_Person_Distance.htm" />
+          <HelpTOCNode Title="IsTarget Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_Person_IsTarget.htm" />
+          <HelpTOCNode Title="Position Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_Person_Position.htm" />
           <HelpTOCNode Title="Rectangle Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_Person_Rectangle.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Person Methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_Person.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1540f0fd-e680-4074-82ce-0bb514c6f385" Title="PersonPositionChangedEventArgs Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_PersonPositionChangedEventArgs.htm">
-        <HelpTOCNode Title="PersonPositionChangedEventArgs Constructor " Url="html/M_Rubedos_Viper_Net_PerceptionApps_PersonPositionChangedEventArgs__ctor.htm" />
-        <HelpTOCNode Id="b1c76f92-4117-4530-afcd-f8a6ae5c4f6b" Title="PersonPositionChangedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_PersonPositionChangedEventArgs.htm">
-          <HelpTOCNode Title="SelectedPerson Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_PersonPositionChangedEventArgs_SelectedPerson.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="52e9d70e-5fe8-45ba-b2b4-1f2d0ac309df" Title="Rubedos.Viper.Net.PerceptionApps.EventArgs" Url="html/N_Rubedos_Viper_Net_PerceptionApps_EventArgs.htm">
+      <HelpTOCNode Id="b3f083db-d8cd-4423-90fb-87fbd2fcaa94" Title="PersonChangedEventArgs Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonChangedEventArgs.htm">
+        <HelpTOCNode Title="PersonChangedEventArgs Constructor " Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonChangedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="591db100-771a-4853-93a9-c312aa14c92e" Title="PersonChangedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonChangedEventArgs.htm">
+          <HelpTOCNode Title="Person Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonChangedEventArgs_Person.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Title="PersonPositionChangedEventArgs Methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_PersonPositionChangedEventArgs.htm" />
+        <HelpTOCNode Title="PersonChangedEventArgs Methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonChangedEventArgs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9484992e-556d-4756-9d6d-0397667343f4" Title="PersonDetectedEventArgs Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDetectedEventArgs.htm">
+        <HelpTOCNode Title="PersonDetectedEventArgs Constructor " Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDetectedEventArgs__ctor.htm" />
+        <HelpTOCNode Title="PersonDetectedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDetectedEventArgs.htm" />
+        <HelpTOCNode Title="PersonDetectedEventArgs Methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDetectedEventArgs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1373fb1d-39de-47a4-8153-7e03d5632981" Title="PersonDistanceChangedEventArgs Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs.htm">
+        <HelpTOCNode Title="PersonDistanceChangedEventArgs Constructor " Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="b8bdeb5e-6979-47e9-b9a0-09358b2adb93" Title="PersonDistanceChangedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs.htm">
+          <HelpTOCNode Title="Distance Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs_Distance.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="PersonDistanceChangedEventArgs Methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d8498985-078e-443a-8d30-5a6cd72cc65c" Title="PersonPositionChangedEventArgs Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs.htm">
+        <HelpTOCNode Title="PersonPositionChangedEventArgs Constructor " Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="ad2c2a10-d675-46af-b659-0e6fa475fd4f" Title="PersonPositionChangedEventArgs Properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs.htm">
+          <HelpTOCNode Title="Position Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs_Position.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="PersonPositionChangedEventArgs Methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c9009a9d-ebe9-40c8-bb1c-e626fef0fc6f" Title="Rubedos.Viper.Net.Tf" Url="html/N_Rubedos_Viper_Net_Tf.htm">
-      <HelpTOCNode Id="9d9e37b5-ff29-4ab2-8da1-3250c003dcf4" Title="TfFrame Class" Url="html/T_Rubedos_Viper_Net_Tf_TfFrame.htm">
+    <HelpTOCNode Id="9a7c1e33-24d0-4537-a747-dfda5ca10932" Title="Rubedos.Viper.Net.Tf" Url="html/N_Rubedos_Viper_Net_Tf.htm">
+      <HelpTOCNode Id="e3a450b2-3211-43c5-9069-622d6c208b86" Title="TfFrame Class" Url="html/T_Rubedos_Viper_Net_Tf_TfFrame.htm">
         <HelpTOCNode Title="TfFrame Constructor " Url="html/M_Rubedos_Viper_Net_Tf_TfFrame__ctor.htm" />
-        <HelpTOCNode Id="c98a4bda-af38-4026-998f-a0815b506c7f" Title="TfFrame Properties" Url="html/Properties_T_Rubedos_Viper_Net_Tf_TfFrame.htm">
+        <HelpTOCNode Id="9aaae928-4942-4a6e-8dbc-c7ae645b493a" Title="TfFrame Properties" Url="html/Properties_T_Rubedos_Viper_Net_Tf_TfFrame.htm">
           <HelpTOCNode Title="ChildFrames Property " Url="html/P_Rubedos_Viper_Net_Tf_TfFrame_ChildFrames.htm" />
           <HelpTOCNode Title="FrameId Property " Url="html/P_Rubedos_Viper_Net_Tf_TfFrame_FrameId.htm" />
           <HelpTOCNode Title="lastMessage Property " Url="html/P_Rubedos_Viper_Net_Tf_TfFrame_lastMessage.htm" />
           <HelpTOCNode Title="ParentFrame Property " Url="html/P_Rubedos_Viper_Net_Tf_TfFrame_ParentFrame.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bb010de5-c7c3-4bf7-9399-b6bcae77b571" Title="TfFrame Methods" Url="html/Methods_T_Rubedos_Viper_Net_Tf_TfFrame.htm">
+        <HelpTOCNode Id="4a66efa5-64c7-4c8a-9709-18aac9706408" Title="TfFrame Methods" Url="html/Methods_T_Rubedos_Viper_Net_Tf_TfFrame.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_Rubedos_Viper_Net_Tf_TfFrame_ToString.htm" />
           <HelpTOCNode Title="ToTreeString Method " Url="html/M_Rubedos_Viper_Net_Tf_TfFrame_ToTreeString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f453fef2-7629-4e2c-9bcb-7467860b35ae" Title="TfManager Class" Url="html/T_Rubedos_Viper_Net_Tf_TfManager.htm">
+      <HelpTOCNode Id="84fbfc4a-caa9-42c1-ab1b-abd345fd18fb" Title="TfManager Class" Url="html/T_Rubedos_Viper_Net_Tf_TfManager.htm">
         <HelpTOCNode Title="TfManager Constructor " Url="html/M_Rubedos_Viper_Net_Tf_TfManager__ctor.htm" />
-        <HelpTOCNode Id="1792bd1b-ea56-4bf6-9311-9c4f2d2f591b" Title="TfManager Properties" Url="html/Properties_T_Rubedos_Viper_Net_Tf_TfManager.htm">
+        <HelpTOCNode Id="45b329f4-25c0-402e-a44b-270c3aab8fef" Title="TfManager Properties" Url="html/Properties_T_Rubedos_Viper_Net_Tf_TfManager.htm">
           <HelpTOCNode Title="CvmTransform Property " Url="html/P_Rubedos_Viper_Net_Tf_TfManager_CvmTransform.htm" />
           <HelpTOCNode Title="Frames Property " Url="html/P_Rubedos_Viper_Net_Tf_TfManager_Frames.htm" />
           <HelpTOCNode Title="RootFrame Property " Url="html/P_Rubedos_Viper_Net_Tf_TfManager_RootFrame.htm" />
           <HelpTOCNode Title="TfTransformer Property " Url="html/P_Rubedos_Viper_Net_Tf_TfManager_TfTransformer.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cbd5ef50-56f6-4033-bf23-0f3b01556a0d" Title="TfManager Methods" Url="html/Methods_T_Rubedos_Viper_Net_Tf_TfManager.htm">
+        <HelpTOCNode Id="d059926e-30f8-47be-9017-6cbe5d382ff2" Title="TfManager Methods" Url="html/Methods_T_Rubedos_Viper_Net_Tf_TfManager.htm">
           <HelpTOCNode Title="GetTransform Method " Url="html/M_Rubedos_Viper_Net_Tf_TfManager_GetTransform.htm" />
           <HelpTOCNode Title="Initialize Method " Url="html/M_Rubedos_Viper_Net_Tf_TfManager_Initialize.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e0226ffd-11d3-446b-8508-cfd66951ef12" Title="TfManager Events" Url="html/Events_T_Rubedos_Viper_Net_Tf_TfManager.htm">
+        <HelpTOCNode Id="f3f0a0f9-2fd2-46ef-acad-90a0eb2e65f1" Title="TfManager Events" Url="html/Events_T_Rubedos_Viper_Net_Tf_TfManager.htm">
           <HelpTOCNode Title="FramesUpdated Event" Url="html/E_Rubedos_Viper_Net_Tf_TfManager_FramesUpdated.htm" />
           <HelpTOCNode Title="FrameTreeChanged Event" Url="html/E_Rubedos_Viper_Net_Tf_TfManager_FrameTreeChanged.htm" />
         </HelpTOCNode>
