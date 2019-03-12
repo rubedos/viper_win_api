@@ -321,6 +321,7 @@
     <HelpKINode Title="FollowMeApp.Dispose Method " Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Dispose.htm" />
     <HelpKINode Title="Pointcloud3DView.Dispose Method " Url="html/Overload_Rubedos_RosToolsApplicationBase_Pointcloud_Pointcloud3DView_Dispose.htm" />
     <HelpKINode Title="PointcloudViewModel.Dispose Method " Url="html/Overload_Rubedos_RosToolsApplicationBase_Pointcloud_PointcloudViewModel_Dispose.htm" />
+    <HelpKINode Title="RosWindowBase.Dispose Method " Url="html/Overload_Rubedos_RosToolsApplicationBase_RosWindowBase_Dispose.htm" />
     <HelpKINode Title="TFManager.Dispose Method " Url="html/Overload_Rubedos_Viper_Net_TF_TFManager_Dispose.htm" />
   </HelpKINode>
   <HelpKINode Title="Distance property">
@@ -912,6 +913,7 @@
   <HelpKINode Title="RosWindowBase.ConnectToROSMaster method" Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase_ConnectToROSMaster.htm" />
   <HelpKINode Title="RosWindowBase.CvmDeviceInfoChaged event" Url="html/E_Rubedos_RosToolsApplicationBase_RosWindowBase_CvmDeviceInfoChaged.htm" />
   <HelpKINode Title="RosWindowBase.Device property" Url="html/P_Rubedos_RosToolsApplicationBase_RosWindowBase_Device.htm" />
+  <HelpKINode Title="RosWindowBase.Dispose method" Url="html/Overload_Rubedos_RosToolsApplicationBase_RosWindowBase_Dispose.htm" />
   <HelpKINode Title="RosWindowBase.FilterTopics method" Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase_FilterTopics.htm" />
   <HelpKINode Title="RosWindowBase.GetBaseToolar method" Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase_GetBaseToolar.htm" />
   <HelpKINode Title="RosWindowBase.InitializeComponent method" Url="html/M_Rubedos_RosToolsApplicationBase_RosWindowBase_InitializeComponent.htm" />
