@@ -18,6 +18,11 @@
   </HelpKINode>
   <HelpKINode Title="AllTopics property" Url="html/P_Rubedos_Viper_Net_Iface_TopicsUpdatedEventArgs_AllTopics.htm" />
   <HelpKINode Title="AmbientLightColor property" Url="html/P_Rubedos_RosToolsApplicationBase_Pointcloud_PointcloudViewModel_AmbientLightColor.htm" />
+  <HelpKINode Title="AppId property">
+    <HelpKINode Title="CoreApp.AppId Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_CoreApp_AppId.htm" />
+    <HelpKINode Title="FollowMeApp.AppId Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_AppId.htm" />
+    <HelpKINode Title="IPerceptionApp.AppId Property " Url="html/P_Rubedos_Viper_Net_Iface_IPerceptionApp_AppId.htm" />
+  </HelpKINode>
   <HelpKINode Title="ArrangeOverride method" Url="html/M_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_ArrangeOverride.htm" />
   <HelpKINode Title="AutoCompleteEntry class">
     <HelpKINode Title="AutoCompleteEntry Class" Url="html/T_Rubedos_RosToolsApplicationBase_AutoCompleteEntry.htm" />
@@ -139,8 +144,9 @@
     <HelpKINode Title="properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_CoreApp.htm" />
   </HelpKINode>
   <HelpKINode Title="CoreApp.Activate method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_CoreApp_Activate.htm" />
+  <HelpKINode Title="CoreApp.AppId property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_CoreApp_AppId.htm" />
   <HelpKINode Title="CoreApp.Description property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_CoreApp_Description.htm" />
-  <HelpKINode Title="CoreApp.IsActivated property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_CoreApp_IsActivated.htm" />
+  <HelpKINode Title="CoreApp.IsActivated method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_CoreApp_IsActivated.htm" />
   <HelpKINode Title="CoreApp.Name property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_CoreApp_Name.htm" />
   <HelpKINode Title="CreateDynamicReconfigureInterface method" Url="html/M_Rubedos_Viper_Net_DeviceConfigManager_CreateDynamicReconfigureInterface.htm" />
   <HelpKINode Title="CreateFov method" Url="html/M_Rubedos_RosToolsApplicationBase_Pointcloud_PointcloudViewModel_CreateFov.htm" />
@@ -254,7 +260,21 @@
   </HelpKINode>
   <HelpKINode Title="DescriptionsReceived event" Url="html/E_Rubedos_Viper_Net_DeviceConfigManager_DescriptionsReceived.htm" />
   <HelpKINode Title="DescriptionUpdated event" Url="html/E_Rubedos_Viper_Net_RosNodeConfiguration_DescriptionUpdated.htm" />
-  <HelpKINode Title="DetectedPersons property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_DetectedPersons.htm" />
+  <HelpKINode Title="Detected event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Detected.htm" />
+  <HelpKINode Title="DetectedEventArgs class">
+    <HelpKINode Title="DetectedEventArgs Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_DetectedEventArgs.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_DetectedEventArgs__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_DetectedEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_DetectedEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DetectedEventArgs.DetectedEventArgs constructor" Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_DetectedEventArgs__ctor.htm" />
+  <HelpKINode Title="DetectedEventArgs.DetectedPersons property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_EventArgs_DetectedEventArgs_DetectedPersons.htm" />
+  <HelpKINode Title="DetectedPersons property">
+    <HelpKINode Title="DetectedEventArgs.DetectedPersons Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_EventArgs_DetectedEventArgs_DetectedPersons.htm" />
+    <HelpKINode Title="FollowMeApp.DetectedPersons Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_DetectedPersons.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DetectionStarted event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_DetectionStarted.htm" />
+  <HelpKINode Title="DetectionStopped event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_DetectionStopped.htm" />
   <HelpKINode Title="Device class">
     <HelpKINode Title="Device Class" Url="html/T_Rubedos_RosToolsApplicationBase_Device.htm" />
     <HelpKINode Title="constructor" Url="html/M_Rubedos_RosToolsApplicationBase_Device__ctor.htm" />
@@ -324,15 +344,13 @@
     <HelpKINode Title="RosWindowBase.Dispose Method " Url="html/Overload_Rubedos_RosToolsApplicationBase_RosWindowBase_Dispose.htm" />
     <HelpKINode Title="TFManager.Dispose Method " Url="html/Overload_Rubedos_Viper_Net_TF_TFManager_Dispose.htm" />
   </HelpKINode>
-  <HelpKINode Title="Distance property">
-    <HelpKINode Title="Person.Distance Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_Person_Distance.htm" />
-    <HelpKINode Title="PersonDistanceChangedEventArgs.Distance Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs_Distance.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Distance property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_Person_Distance.htm" />
   <HelpKINode Title="DynamicReconfigure enumeration member">
     <HelpKINode Title="FilterTopicsOption Enumeration" Url="html/T_Rubedos_Viper_Net_FilterTopicsOption.htm" />
     <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_RosToolsApplicationBase_FilterTopicsOptionsEnum.htm" />
   </HelpKINode>
   <HelpKINode Title="EffectsManager property" Url="html/P_Rubedos_RosToolsApplicationBase_Pointcloud_BaseViewModel_EffectsManager.htm" />
+  <HelpKINode Title="Enable method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Enable.htm" />
   <HelpKINode Title="Equals method" Url="html/M_Rubedos_Viper_Net_DynamicReconfigure_RosDeviceConfiguration_Equals.htm" />
   <HelpKINode Title="ExceptDynamicReconfigure enumeration member">
     <HelpKINode Title="FilterTopicsOption Enumeration" Url="html/T_Rubedos_Viper_Net_FilterTopicsOption.htm" />
@@ -357,25 +375,23 @@
     <HelpKINode Title="properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_FollowMeApp.htm" />
   </HelpKINode>
   <HelpKINode Title="FollowMeApp.Activate method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Activate.htm" />
+  <HelpKINode Title="FollowMeApp.AppId property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_AppId.htm" />
   <HelpKINode Title="FollowMeApp.Description property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Description.htm" />
+  <HelpKINode Title="FollowMeApp.Detected event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Detected.htm" />
   <HelpKINode Title="FollowMeApp.DetectedPersons property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_DetectedPersons.htm" />
+  <HelpKINode Title="FollowMeApp.DetectionStarted event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_DetectionStarted.htm" />
+  <HelpKINode Title="FollowMeApp.DetectionStopped event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_DetectionStopped.htm" />
   <HelpKINode Title="FollowMeApp.Dispose method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Dispose.htm" />
+  <HelpKINode Title="FollowMeApp.Enable method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Enable.htm" />
   <HelpKINode Title="FollowMeApp.FollowMeApp constructor" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp__ctor.htm" />
-  <HelpKINode Title="FollowMeApp.IsActivated property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_IsActivated.htm" />
+  <HelpKINode Title="FollowMeApp.IsActivated method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_IsActivated.htm" />
   <HelpKINode Title="FollowMeApp.IsEnabled property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_IsEnabled.htm" />
   <HelpKINode Title="FollowMeApp.IsTracking property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_IsTracking.htm" />
   <HelpKINode Title="FollowMeApp.Name property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Name.htm" />
-  <HelpKINode Title="FollowMeApp.OnPersonDetected event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnPersonDetected.htm" />
-  <HelpKINode Title="FollowMeApp.OnPersonPositionChanged event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnPersonPositionChanged.htm" />
-  <HelpKINode Title="FollowMeApp.OnStarted event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnStarted.htm" />
-  <HelpKINode Title="FollowMeApp.OnStopped event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnStopped.htm" />
-  <HelpKINode Title="FollowMeApp.OnTargetDistanceChanged event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnTargetDistanceChanged.htm" />
-  <HelpKINode Title="FollowMeApp.OnTargetPositionChanged event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnTargetPositionChanged.htm" />
-  <HelpKINode Title="FollowMeApp.Start method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Start.htm" />
   <HelpKINode Title="FollowMeApp.StartTracking method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_StartTracking.htm" />
-  <HelpKINode Title="FollowMeApp.Stop method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Stop.htm" />
   <HelpKINode Title="FollowMeApp.StopTracking method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_StopTracking.htm" />
   <HelpKINode Title="FollowMeApp.Target property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Target.htm" />
+  <HelpKINode Title="FollowMeApp.TargetPositionChanged event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_TargetPositionChanged.htm" />
   <HelpKINode Title="FollowMeApp.TypeName property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_TypeName.htm" />
   <HelpKINode Title="FovD property" Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_FovD.htm" />
   <HelpKINode Title="FovH property" Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_FovH.htm" />
@@ -461,13 +477,14 @@
     <HelpKINode Title="properties" Url="html/Properties_T_Rubedos_Viper_Net_Iface_IPerceptionApp.htm" />
   </HelpKINode>
   <HelpKINode Title="IPerceptionApp.Activate method" Url="html/M_Rubedos_Viper_Net_Iface_IPerceptionApp_Activate.htm" />
+  <HelpKINode Title="IPerceptionApp.AppId property" Url="html/P_Rubedos_Viper_Net_Iface_IPerceptionApp_AppId.htm" />
   <HelpKINode Title="IPerceptionApp.Description property" Url="html/P_Rubedos_Viper_Net_Iface_IPerceptionApp_Description.htm" />
-  <HelpKINode Title="IPerceptionApp.IsActivated property" Url="html/P_Rubedos_Viper_Net_Iface_IPerceptionApp_IsActivated.htm" />
+  <HelpKINode Title="IPerceptionApp.IsActivated method" Url="html/M_Rubedos_Viper_Net_Iface_IPerceptionApp_IsActivated.htm" />
   <HelpKINode Title="IPerceptionApp.Name property" Url="html/P_Rubedos_Viper_Net_Iface_IPerceptionApp_Name.htm" />
-  <HelpKINode Title="IsActivated property">
-    <HelpKINode Title="CoreApp.IsActivated Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_CoreApp_IsActivated.htm" />
-    <HelpKINode Title="FollowMeApp.IsActivated Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_IsActivated.htm" />
-    <HelpKINode Title="IPerceptionApp.IsActivated Property " Url="html/P_Rubedos_Viper_Net_Iface_IPerceptionApp_IsActivated.htm" />
+  <HelpKINode Title="IsActivated method">
+    <HelpKINode Title="CoreApp.IsActivated Method " Url="html/M_Rubedos_Viper_Net_PerceptionApps_CoreApp_IsActivated.htm" />
+    <HelpKINode Title="FollowMeApp.IsActivated Method " Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_IsActivated.htm" />
+    <HelpKINode Title="IPerceptionApp.IsActivated Method " Url="html/M_Rubedos_Viper_Net_Iface_IPerceptionApp_IsActivated.htm" />
   </HelpKINode>
   <HelpKINode Title="IsConnected property" Url="html/P_Rubedos_Viper_Net_CvmDevice_IsConnected.htm" />
   <HelpKINode Title="IsEnabled property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_IsEnabled.htm" />
@@ -566,13 +583,7 @@
   <HelpKINode Title="ObservableObject.SetValue(Of T) method" Url="html/M_Rubedos_RosToolsApplicationBase_Pointcloud_ObservableObject_SetValue__1.htm" />
   <HelpKINode Title="ObservableObject.SetValue&lt;T&gt; method" Url="html/M_Rubedos_RosToolsApplicationBase_Pointcloud_ObservableObject_SetValue__1.htm" />
   <HelpKINode Title="OnCameraModelChanged method" Url="html/M_Rubedos_RosToolsApplicationBase_Pointcloud_BaseViewModel_OnCameraModelChanged.htm" />
-  <HelpKINode Title="OnPersonDetected event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnPersonDetected.htm" />
-  <HelpKINode Title="OnPersonPositionChanged event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnPersonPositionChanged.htm" />
   <HelpKINode Title="OnPropertyChanged method" Url="html/M_Rubedos_RosToolsApplicationBase_Pointcloud_ObservableObject_OnPropertyChanged.htm" />
-  <HelpKINode Title="OnStarted event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnStarted.htm" />
-  <HelpKINode Title="OnStopped event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnStopped.htm" />
-  <HelpKINode Title="OnTargetDistanceChanged event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnTargetDistanceChanged.htm" />
-  <HelpKINode Title="OnTargetPositionChanged event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_OnTargetPositionChanged.htm" />
   <HelpKINode Title="Origin property" Url="html/P_Rubedos_RosToolsApplicationBase_Pointcloud_PointcloudViewModel_Origin.htm" />
   <HelpKINode Title="OriginMaterial property" Url="html/P_Rubedos_RosToolsApplicationBase_Pointcloud_PointcloudViewModel_OriginMaterial.htm" />
   <HelpKINode Title="Orthographic field" Url="html/F_Rubedos_RosToolsApplicationBase_Pointcloud_BaseViewModel_Orthographic.htm" />
@@ -600,29 +611,6 @@
   </HelpKINode>
   <HelpKINode Title="PersonChangedEventArgs.Person property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonChangedEventArgs_Person.htm" />
   <HelpKINode Title="PersonChangedEventArgs.PersonChangedEventArgs constructor" Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonChangedEventArgs__ctor.htm" />
-  <HelpKINode Title="PersonDetectedEventArgs class">
-    <HelpKINode Title="PersonDetectedEventArgs Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDetectedEventArgs.htm" />
-    <HelpKINode Title="constructor" Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDetectedEventArgs__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDetectedEventArgs.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDetectedEventArgs.htm" />
-  </HelpKINode>
-  <HelpKINode Title="PersonDetectedEventArgs.PersonDetectedEventArgs constructor" Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDetectedEventArgs__ctor.htm" />
-  <HelpKINode Title="PersonDistanceChangedEventArgs class">
-    <HelpKINode Title="PersonDistanceChangedEventArgs Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs.htm" />
-    <HelpKINode Title="constructor" Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs.htm" />
-  </HelpKINode>
-  <HelpKINode Title="PersonDistanceChangedEventArgs.Distance property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs_Distance.htm" />
-  <HelpKINode Title="PersonDistanceChangedEventArgs.PersonDistanceChangedEventArgs constructor" Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs__ctor.htm" />
-  <HelpKINode Title="PersonPositionChangedEventArgs class">
-    <HelpKINode Title="PersonPositionChangedEventArgs Class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs.htm" />
-    <HelpKINode Title="constructor" Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs.htm" />
-  </HelpKINode>
-  <HelpKINode Title="PersonPositionChangedEventArgs.PersonPositionChangedEventArgs constructor" Url="html/M_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs__ctor.htm" />
-  <HelpKINode Title="PersonPositionChangedEventArgs.Position property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs_Position.htm" />
   <HelpKINode Title="Perspective field" Url="html/F_Rubedos_RosToolsApplicationBase_Pointcloud_BaseViewModel_Perspective.htm" />
   <HelpKINode Title="Pointcloud property" Url="html/P_Rubedos_RosToolsApplicationBase_Pointcloud_PointcloudViewModel_Pointcloud.htm" />
   <HelpKINode Title="Pointcloud3DView class">
@@ -712,10 +700,7 @@
   <HelpKINode Title="PointCount property" Url="html/P_Rubedos_RosToolsApplicationBase_Pointcloud_PointcloudViewModel_PointCount.htm" />
   <HelpKINode Title="PointSize property" Url="html/P_Rubedos_RosToolsApplicationBase_Pointcloud_Pointcloud3DView_PointSize.htm" />
   <HelpKINode Title="PointSizeProperty field" Url="html/F_Rubedos_RosToolsApplicationBase_Pointcloud_Pointcloud3DView_PointSizeProperty.htm" />
-  <HelpKINode Title="Position property">
-    <HelpKINode Title="Person.Position Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_Person_Position.htm" />
-    <HelpKINode Title="PersonPositionChangedEventArgs.Position Property " Url="html/P_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs_Position.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Position property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_Person_Position.htm" />
   <HelpKINode Title="PostRosLog method" Url="html/M_Rubedos_Viper_Net_CvmDevice_PostRosLog.htm" />
   <HelpKINode Title="PrincipalPoint property" Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_PrincipalPoint.htm" />
   <HelpKINode Title="ProcessingUnit property" Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_ProcessingUnit.htm" />
@@ -970,10 +955,8 @@
   <HelpKINode Title="Rubedos.Viper.Net.PerceptionApps namespace" Url="html/N_Rubedos_Viper_Net_PerceptionApps.htm" />
   <HelpKINode Title="Rubedos.Viper.Net.PerceptionApps.CoreApp class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_CoreApp.htm" />
   <HelpKINode Title="Rubedos.Viper.Net.PerceptionApps.EventArgs namespace" Url="html/N_Rubedos_Viper_Net_PerceptionApps_EventArgs.htm" />
+  <HelpKINode Title="Rubedos.Viper.Net.PerceptionApps.EventArgs.DetectedEventArgs class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_DetectedEventArgs.htm" />
   <HelpKINode Title="Rubedos.Viper.Net.PerceptionApps.EventArgs.PersonChangedEventArgs class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonChangedEventArgs.htm" />
-  <HelpKINode Title="Rubedos.Viper.Net.PerceptionApps.EventArgs.PersonDetectedEventArgs class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDetectedEventArgs.htm" />
-  <HelpKINode Title="Rubedos.Viper.Net.PerceptionApps.EventArgs.PersonDistanceChangedEventArgs class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonDistanceChangedEventArgs.htm" />
-  <HelpKINode Title="Rubedos.Viper.Net.PerceptionApps.EventArgs.PersonPositionChangedEventArgs class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_EventArgs_PersonPositionChangedEventArgs.htm" />
   <HelpKINode Title="Rubedos.Viper.Net.PerceptionApps.FollowMeApp class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_FollowMeApp.htm" />
   <HelpKINode Title="Rubedos.Viper.Net.PerceptionApps.Person class" Url="html/T_Rubedos_Viper_Net_PerceptionApps_Person.htm" />
   <HelpKINode Title="Rubedos.Viper.Net.RosNodeConfiguration class" Url="html/T_Rubedos_Viper_Net_RosNodeConfiguration.htm" />
@@ -1010,15 +993,14 @@
     <HelpKINode Title="FilterTopicsOption Enumeration" Url="html/T_Rubedos_Viper_Net_FilterTopicsOption.htm" />
     <HelpKINode Title="FilterTopicsOptionsEnum Enumeration" Url="html/T_Rubedos_RosToolsApplicationBase_FilterTopicsOptionsEnum.htm" />
   </HelpKINode>
-  <HelpKINode Title="Start method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Start.htm" />
   <HelpKINode Title="StartTracking method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_StartTracking.htm" />
-  <HelpKINode Title="Stop method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Stop.htm" />
   <HelpKINode Title="StopTracking method" Url="html/M_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_StopTracking.htm" />
   <HelpKINode Title="StopUpdateThread method" Url="html/M_Rubedos_RosToolsApplicationBase_Pointcloud_PointcloudViewModel_StopUpdateThread.htm" />
   <HelpKINode Title="StoreEntries method" Url="html/M_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_StoreEntries.htm" />
   <HelpKINode Title="Subtitle property" Url="html/P_Rubedos_RosToolsApplicationBase_Pointcloud_BaseViewModel_Subtitle.htm" />
   <HelpKINode Title="SupportedImageFormats property" Url="html/P_Rubedos_Viper_Net_CvmDeviceInfo_SupportedImageFormats.htm" />
   <HelpKINode Title="Target property" Url="html/P_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_Target.htm" />
+  <HelpKINode Title="TargetPositionChanged event" Url="html/E_Rubedos_Viper_Net_PerceptionApps_FollowMeApp_TargetPositionChanged.htm" />
   <HelpKINode Title="Text property" Url="html/P_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_Text.htm" />
   <HelpKINode Title="TextBox property" Url="html/P_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_TextBox.htm" />
   <HelpKINode Title="TextProperty field" Url="html/F_Rubedos_RosToolsApplicationBase_AutoCompleteTextBox_TextProperty.htm" />
